@@ -10,7 +10,7 @@ The purpose of this project is to understand and predict drug usage of the Medic
 The following features were required for this project:
 1. Combine datasets for analysis
 2. Analyze and visualize interesting patterns in the data.
-3. Future prediction of prescription usage by state or zip cod.
+3. Predict future prescription usage by state or zip code.
 
 ## Datasets
 
