@@ -4,6 +4,8 @@
 <head>
   <script src="//d3js.org/d3.v3.min.js"></script>
   <script src="//d3js.org/topojson.v1.min.js"></script>
+  <script src="js/angular.min.js"></script>
+  <script src="js/app.js"></script>
 
   <style>
 
@@ -33,7 +35,7 @@
 
 </head>
 
-<body>
+<body ng-app="app" ng-controller="homeController" ng-init="getData()">
 <script src="js/d3_us.js"></script>
 </body>
 
