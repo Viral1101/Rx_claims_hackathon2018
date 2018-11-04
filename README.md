@@ -27,6 +27,17 @@ This project is built as an interactive web application using MEAN Stack.
 
 Relevant tables from the datasets were imported into MongoDB. Database queries return data on Medicaid prescription expenditures by state and product. This data is accessed by and displayed to the user through an interactive front-end using D3.
 
+### Technologies
+* HTML5
+* CSS
+  * Bootstrap
+* MEAN Stack
+  * MongoDB
+  * Express
+  * Angular
+  * NodeJS
+* D3
+
 ## Features
 
 * Interactive map of the United States
