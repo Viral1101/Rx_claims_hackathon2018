@@ -3,7 +3,9 @@
 
 The purpose of this project is to understand and predict drug usage of the Medicaid population, which will enable local governments and health plan providers to respond strategically to reduce expenditures.
 
-* Source: [Github Repository](https://github.com/Viral1101/Rx_claims_hackathon2018)
+* Source Code: [Github Repository](https://github.com/Viral1101/Rx_claims_hackathon2018)
+* Slides: [Presentation](https://docs.google.com/presentation/d/161zXyUf1gQDV95C6VQlIDrQCJhbf6KNRCBGZd8pqHtQ/edit?usp=sharing)
+* Video: [Youtube](need a youtube link here)
 
 ## Requirements
 
@@ -24,8 +26,7 @@ The *National Drug Codes* dataset is from the Healthcare Effectiveness Data and 
 ## Approach
 
 This project is built as an interactive web application using MEAN Stack.
-
-Relevant tables from the datasets were imported into MongoDB. Database queries return data on Medicaid prescription expenditures by state and product. This data is accessed by and displayed to the user through an interactive front-end using D3.
+Some SQL code was used to join tables for ore responsive use by the application, according to the following code.
 
 ```sql
 proc sql;
@@ -44,6 +45,8 @@ from one
 group by state, medication_list;
 quit;
 ```
+
+Relevant tables from the datasets were imported into MongoDB. Database queries return data on Medicaid prescription expenditures by state and product. This data is accessed by and displayed to the user through an interactive front-end using D3.
 
 ### Technologies
 * HTML5
