@@ -104,6 +104,7 @@ function clicked(d) {
         .duration(750)
         .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
         .style("stroke-width", 1.5 / k + "px");
+
 }
 
 function colorStates(totals) {

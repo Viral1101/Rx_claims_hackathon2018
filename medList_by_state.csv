@@ -1,0 +1,1844 @@
+State,total_amount_reimbursed,number_of_prescriptions,Medication_List
+AK,3232.27,189,5-ARI Medications
+AK,987623.54,45341,AAB Antibiotic Me
+AK,319591.83,19561,ACE Inhibitor/ARB
+AK,1958698.3,20993,ADHD Medications
+AK,617744.64,28405,All Other Antibio
+AK,369878.9,16936,Antibiotics of Co
+AK,1026796.33,47340,Antidepressant Me
+AK,,,Antipsychotic Com
+AK,2207073.22,20984,Antipsychotic Med
+AK,3195190.12,13984,Asthma Controller
+AK,2454799.44,8254,Asthma Exclusions
+AK,1173075.58,17107,Asthma Reliever M
+AK,412291.78,13017,Beta-Blocker Medi
+AK,4259958.63,30938,Bronchodilator Me
+AK,762413.33,40256,CWP Antibiotic Me
+AK,793548.31,7529,Contraceptive Med
+AK,188262.4,12600,Corticosteroid Me
+AK,482428.69,29196,Cox-2 Selective N
+AK,7230393.8,5011,DMARD Medications
+AK,2700.08,170,Dementia Medicati
+AK,5333903.06,12812,Diabetes Medicati
+AK,178257.67,11146,Diuretic Medicati
+AK,192922.49,10955,High and Moderate
+AK,925936.27,42355,High-Risk Medicat
+AK,697821.67,738,Long-Acting Injec
+AK,10262.45,708,Low-Intensity Sta
+AK,5828938.39,15495,Medication Treatm
+AK,1195877.42,36697,Opioid Medication
+AK,1505517.5,20017,Oral Antipsychoti
+AK,402914.07,659,Osteoporosis Medi
+AK,6431511.41,129778,Potentially Harmf
+AK,50458.07,223,Retinoid Medicati
+AK,2207073.22,20984,SSD Antipsychotic
+AK,148849.25,10062,Systemic Corticos
+AK,1118503.23,36503,UOD Opioid Medica
+AL,8035.04,599,5-ARI Medications
+AL,8641255.2,445363,AAB Antibiotic Me
+AL,1095064.15,59636,ACE Inhibitor/ARB
+AL,51845313.2,279797,ADHD Medications
+AL,4692590.97,227122,All Other Antibio
+AL,3942740.08,218165,Antibiotics of Co
+AL,3687042.75,179580,Antidepressant Me
+AL,,,Antipsychotic Com
+AL,33229877.44,112017,Antipsychotic Med
+AL,17662001.26,133138,Asthma Controller
+AL,14125481.53,52362,Asthma Exclusions
+AL,8065848.16,96915,Asthma Reliever M
+AL,772048.31,44829,Beta-Blocker Medi
+AL,22612785.9,192102,Bronchodilator Me
+AL,6810517.11,417339,CWP Antibiotic Me
+AL,5921926.36,53489,Contraceptive Med
+AL,1913333.18,153685,Corticosteroid Me
+AL,1619946.82,133173,Cox-2 Selective N
+AL,15748642.74,14785,DMARD Medications
+AL,41206.93,1777,Dementia Medicati
+AL,27805550.92,68392,Diabetes Medicati
+AL,828398.99,59507,Diuretic Medicati
+AL,611164.47,40318,High and Moderate
+AL,5116721,257807,High-Risk Medicat
+AL,19709425.74,12546,Long-Acting Injec
+AL,71811.08,5324,Low-Intensity Sta
+AL,6618455.43,16472,Medication Treatm
+AL,3351513.08,153897,Opioid Medication
+AL,13488403.53,98755,Oral Antipsychoti
+AL,1212637.64,2286,Osteoporosis Medi
+AL,62460045.02,672185,Potentially Harmf
+AL,,,Retinoid Medicati
+AL,33221227.88,111927,SSD Antipsychotic
+AL,1576345.57,125577,Systemic Corticos
+AL,3289238.13,153692,UOD Opioid Medica
+AR,3285.1,288,5-ARI Medications
+AR,6148475.25,276118,AAB Antibiotic Me
+AR,754051.53,54032,ACE Inhibitor/ARB
+AR,32321033.88,200258,ADHD Medications
+AR,3236912.22,157355,All Other Antibio
+AR,2910613.03,118721,Antibiotics of Co
+AR,2713275.99,185951,Antidepressant Me
+AR,23477.55,84,Antipsychotic Com
+AR,15908195.69,74000,Antipsychotic Med
+AR,10389203.78,57634,Asthma Controller
+AR,9777769.5,38337,Asthma Exclusions
+AR,5428007.34,73085,Asthma Reliever M
+AR,464091.27,36640,Beta-Blocker Medi
+AR,12366139.53,106395,Bronchodilator Me
+AR,5186113.58,260798,CWP Antibiotic Me
+AR,3069822.57,51760,Contraceptive Med
+AR,981464.46,56907,Corticosteroid Me
+AR,713719.8,56085,Cox-2 Selective N
+AR,10491875.25,10918,DMARD Medications
+AR,7561.53,563,Dementia Medicati
+AR,15317231.57,41808,Diabetes Medicati
+AR,509683.26,45814,Diuretic Medicati
+AR,454824.05,37483,High and Moderate
+AR,3372986.65,210580,High-Risk Medicat
+AR,5609490.85,3973,Long-Acting Injec
+AR,62787.66,5229,Low-Intensity Sta
+AR,647619.7,2000,Medication Treatm
+AR,3702069.22,131523,Opioid Medication
+AR,10289957.72,69864,Oral Antipsychoti
+AR,827397.09,1423,Osteoporosis Medi
+AR,33237732.82,579412,Potentially Harmf
+AR,108769.21,317,Retinoid Medicati
+AR,15908195.69,74000,SSD Antipsychotic
+AR,943158.55,55134,Systemic Corticos
+AR,3248305.16,130601,UOD Opioid Medica
+AZ,42599.9,4066,5-ARI Medications
+AZ,9313055.41,540145,AAB Antibiotic Me
+AZ,1909666.8,273798,ACE Inhibitor/ARB
+AZ,25386643.1,208628,ADHD Medications
+AZ,4967628.4,309641,All Other Antibio
+AZ,4345427.01,230504,Antibiotics of Co
+AZ,10452292.27,561915,Antidepressant Me
+AZ,,,Antipsychotic Com
+AZ,61209405.29,228204,Antipsychotic Med
+AZ,28611948.23,162928,Asthma Controller
+AZ,24141035.35,85006,Asthma Exclusions
+AZ,10473900.61,173556,Asthma Reliever M
+AZ,1738448.76,159907,Beta-Blocker Medi
+AZ,31241812.01,299476,Bronchodilator Me
+AZ,6282722.72,490740,CWP Antibiotic Me
+AZ,6297647.44,136387,Contraceptive Med
+AZ,1069698.03,152027,Corticosteroid Me
+AZ,2028930.67,296902,Cox-2 Selective N
+AZ,33187067.93,32194,DMARD Medications
+AZ,107693.89,3134,Dementia Medicati
+AZ,63347154.35,203398,Diabetes Medicati
+AZ,893442.5,166961,Diuretic Medicati
+AZ,,,Estrogen Agonists
+AZ,1751607.37,181293,High and Moderate
+AZ,7364397.92,514306,High-Risk Medicat
+AZ,35486973.3,24887,Long-Acting Injec
+AZ,214731.36,27025,Low-Intensity Sta
+AZ,10037567.75,40807,Medication Treatm
+AZ,8047276.72,340960,Opioid Medication
+AZ,25702862.17,203093,Oral Antipsychoti
+AZ,1496835.76,14523,Osteoporosis Medi
+AZ,97568932.51,1428864,Potentially Harmf
+AZ,528568.07,1710,Retinoid Medicati
+AZ,61199475.76,228115,SSD Antipsychotic
+AZ,921242.32,130757,Systemic Corticos
+AZ,7829749.3,340358,UOD Opioid Medica
+CA,371779.44,35838,5-ARI Medications
+CA,59320227.45,3064573,AAB Antibiotic Me
+CA,16721021.67,1690095,ACE Inhibitor/ARB
+CA,46388462,506942,ADHD Medications
+CA,36903684.09,1958086,All Other Antibio
+CA,22413665.71,1106432,Antibiotics of Co
+CA,41148135.95,2181739,Antidepressant Me
+CA,31536.81,278,Antipsychotic Com
+CA,372519815.1,953445,Antipsychotic Med
+CA,132613810.73,844562,Asthma Controller
+CA,121257099.33,508438,Asthma Exclusions
+CA,58043626.45,1032214,Asthma Reliever M
+CA,10422198.94,887263,Beta-Blocker Medi
+CA,159401437.68,1615811,Bronchodilator Me
+CA,40752200.42,2804823,CWP Antibiotic Me
+CA,51632689.83,684475,Contraceptive Med
+CA,7122019.02,584715,Corticosteroid Me
+CA,18566914.8,2229187,Cox-2 Selective N
+CA,167095360.06,196778,DMARD Medications
+CA,1054415.08,33702,Dementia Medicati
+CA,401605404.77,1407034,Diabetes Medicati
+CA,7828226,984741,Diuretic Medicati
+CA,1311.73,66,Estrogen Agonists
+CA,12023998.38,1271401,High and Moderate
+CA,37379159.74,2634147,High-Risk Medicat
+CA,119717544.9,62977,Long-Acting Injec
+CA,1171054.97,174571,Low-Intensity Sta
+CA,17297288.5,73845,Medication Treatm
+CA,29827652.2,1387116,Opioid Medication
+CA,252286469.41,884199,Oral Antipsychoti
+CA,5414237.35,98758,Osteoporosis Medi
+CA,539353322.51,6781024,Potentially Harmf
+CA,2913197.89,8635,Retinoid Medicati
+CA,372529629.78,953531,SSD Antipsychotic
+CA,6361391.13,555774,Systemic Corticos
+CA,26164699.38,1380047,UOD Opioid Medica
+CO,25060.12,1766,5-ARI Medications
+CO,8479865.68,307354,AAB Antibiotic Me
+CO,1581419.73,90784,ACE Inhibitor/ARB
+CO,21223800.67,139343,ADHD Medications
+CO,5701290.9,188974,All Other Antibio
+CO,2778574.78,118380,Antibiotics of Co
+CO,8011836.53,329224,Antidepressant Me
+CO,,,Antipsychotic Com
+CO,30387904.88,116625,Antipsychotic Med
+CO,22564499.1,96836,Asthma Controller
+CO,21476745.64,60169,Asthma Exclusions
+CO,8970738.07,108362,Asthma Reliever M
+CO,1691067.16,55828,Beta-Blocker Medi
+CO,31679684.97,192943,Bronchodilator Me
+CO,4953970.43,274505,CWP Antibiotic Me
+CO,12247668.16,92824,Contraceptive Med
+CO,1361081.56,111080,Corticosteroid Me
+CO,1912605.63,115255,Cox-2 Selective N
+CO,38821968.74,22758,DMARD Medications
+CO,20887.02,788,Dementia Medicati
+CO,42770388.04,77052,Diabetes Medicati
+CO,1114716.23,70164,Diuretic Medicati
+CO,907907.34,60958,High and Moderate
+CO,6328826.12,264291,High-Risk Medicat
+CO,12236884.74,7766,Long-Acting Injec
+CO,51764.01,3747,Low-Intensity Sta
+CO,17237632.52,48335,Medication Treatm
+CO,7571572.77,255196,Opioid Medication
+CO,18125242.52,108670,Oral Antipsychoti
+CO,1097133.04,3887,Osteoporosis Medi
+CO,75040415.3,842218,Potentially Harmf
+CO,716587.94,2125,Retinoid Medicati
+CO,30387904.88,116625,SSD Antipsychotic
+CO,1123018.09,83957,Systemic Corticos
+CO,7249532.1,254431,UOD Opioid Medica
+CT,31670.37,2099,5-ARI Medications
+CT,7053345.51,298250,AAB Antibiotic Me
+CT,5918485.15,129866,ACE Inhibitor/ARB
+CT,30105739.62,173422,ADHD Medications
+CT,4180463.83,187996,All Other Antibio
+CT,2872881.68,110254,Antibiotics of Co
+CT,12423577.19,395204,Antidepressant Me
+CT,19934.28,65,Antipsychotic Com
+CT,34909808.4,169489,Antipsychotic Med
+CT,37280151.04,156735,Asthma Controller
+CT,31599324.52,91305,Asthma Exclusions
+CT,11138247.36,135120,Asthma Reliever M
+CT,2550511.42,87418,Beta-Blocker Medi
+CT,43584938.99,260710,Bronchodilator Me
+CT,5256501.28,266012,CWP Antibiotic Me
+CT,8617960.4,89424,Contraceptive Med
+CT,1409771.8,91906,Corticosteroid Me
+CT,2695843.84,185653,Cox-2 Selective N
+CT,34123821.97,24270,DMARD Medications
+CT,113966.34,2366,Dementia Medicati
+CT,71113938.24,127479,Diabetes Medicati
+CT,1854112.48,101888,Diuretic Medicati
+CT,,,Estrogen Agonists
+CT,9648749.95,108355,High and Moderate
+CT,9443697.78,306492,High-Risk Medicat
+CT,6280672.8,5356,Long-Acting Injec
+CT,135648.07,9191,Low-Intensity Sta
+CT,22704376.33,93114,Medication Treatm
+CT,6381467.1,163801,Opioid Medication
+CT,28605209.83,163935,Oral Antipsychoti
+CT,1491028.04,5272,Osteoporosis Medi
+CT,73303859.33,981229,Potentially Harmf
+CT,681008.38,1178,Retinoid Medicati
+CT,34908584.25,169474,SSD Antipsychotic
+CT,1304331.55,81016,Systemic Corticos
+CT,6231577.72,163492,UOD Opioid Medica
+DC,7293.5,825,5-ARI Medications
+DC,655259.27,56532,AAB Antibiotic Me
+DC,544941.56,52822,ACE Inhibitor/ARB
+DC,1309542.28,13103,ADHD Medications
+DC,413504.55,37143,All Other Antibio
+DC,241754.72,19389,Antibiotics of Co
+DC,611106.61,48200,Antidepressant Me
+DC,,,Antipsychotic Com
+DC,6042216.08,28805,Antipsychotic Med
+DC,6804094.45,32173,Asthma Controller
+DC,6374363.09,22621,Asthma Exclusions
+DC,2244850.75,34779,Asthma Reliever M
+DC,280557.97,22277,Beta-Blocker Medi
+DC,7251811.35,55844,Bronchodilator Me
+DC,547647.88,46489,CWP Antibiotic Me
+DC,649403.08,13229,Contraceptive Med
+DC,81154.51,11162,Corticosteroid Me
+DC,326683.02,53015,Cox-2 Selective N
+DC,3450832.75,3496,DMARD Medications
+DC,11753.25,502,Dementia Medicati
+DC,13413811.81,39000,Diabetes Medicati
+DC,451134.04,54754,Diuretic Medicati
+DC,,,Estrogen Agonists
+DC,411554.99,41163,High and Moderate
+DC,734563.24,46012,High-Risk Medicat
+DC,3227855.47,2897,Long-Acting Injec
+DC,20430.68,2561,Low-Intensity Sta
+DC,2329648.17,6962,Medication Treatm
+DC,447424.94,34106,Opioid Medication
+DC,2814360.61,25908,Oral Antipsychoti
+DC,119323.33,1548,Osteoporosis Medi
+DC,9511937.06,148470,Potentially Harmf
+DC,17558.09,49,Retinoid Medicati
+DC,6042216.08,28805,SSD Antipsychotic
+DC,75386.54,10143,Systemic Corticos
+DC,447424.94,34106,UOD Opioid Medica
+DE,78,90,5-ARI Medications
+DE,56848.45,58453,AAB Antibiotic Me
+DE,29850.5,31233,ACE Inhibitor/ARB
+DE,301184.34,44714,ADHD Medications
+DE,29594.75,33415,All Other Antibio
+DE,27253.7,25038,Antibiotics of Co
+DE,85338.47,71244,Antidepressant Me
+DE,,,Antipsychotic Com
+DE,128806.93,27787,Antipsychotic Med
+DE,118386.55,19867,Asthma Controller
+DE,91321.53,10271,Asthma Exclusions
+DE,121165.39,22204,Asthma Reliever M
+DE,23098.91,19367,Beta-Blocker Medi
+DE,185867.94,37055,Bronchodilator Me
+DE,50991.16,53130,CWP Antibiotic Me
+DE,117470.25,16435,Contraceptive Med
+DE,21518.98,24282,Corticosteroid Me
+DE,33758.13,35062,Cox-2 Selective N
+DE,262318.44,3900,DMARD Medications
+DE,21.5,34,Dementia Medicati
+DE,263710.74,20137,Diabetes Medicati
+DE,22343.95,23516,Diuretic Medicati
+DE,22494.79,24291,High and Moderate
+DE,71431.99,61700,High-Risk Medicat
+DE,10144.52,961,Long-Acting Injec
+DE,1842.73,2155,Low-Intensity Sta
+DE,159649.68,25362,Medication Treatm
+DE,60416.99,38159,Opioid Medication
+DE,114458.99,26049,Oral Antipsychoti
+DE,25849.69,647,Osteoporosis Medi
+DE,657137.04,183088,Potentially Harmf
+DE,,,Retinoid Medicati
+DE,128806.93,27787,SSD Antipsychotic
+DE,20106.02,21688,Systemic Corticos
+DE,60416.99,38159,UOD Opioid Medica
+FL,55835.99,8581,5-ARI Medications
+FL,20678825.61,1353274,AAB Antibiotic Me
+FL,4684716.22,435064,ACE Inhibitor/ARB
+FL,94759494.25,723990,ADHD Medications
+FL,9795427,755311,All Other Antibio
+FL,10882715.43,597947,Antibiotics of Co
+FL,9133269.66,843164,Antidepressant Me
+FL,2747.41,29,Antipsychotic Com
+FL,74167962.61,420755,Antipsychotic Med
+FL,81789445.96,539399,Asthma Controller
+FL,69940937.24,246700,Asthma Exclusions
+FL,22983292.17,361042,Asthma Reliever M
+FL,2154654.24,280332,Beta-Blocker Medi
+FL,86688438.77,839119,Bronchodilator Me
+FL,13676683.38,1249769,CWP Antibiotic Me
+FL,12617854.71,226040,Contraceptive Med
+FL,2640992.87,397013,Corticosteroid Me
+FL,3340812.41,532952,Cox-2 Selective N
+FL,76913271.93,65473,DMARD Medications
+FL,668142.47,29092,Dementia Medicati
+FL,113662104.36,350639,Diabetes Medicati
+FL,1608545.43,311838,Diuretic Medicati
+FL,,,Estrogen Agonists
+FL,2009173.49,333059,High and Moderate
+FL,16972639.93,1062017,High-Risk Medicat
+FL,26224378.25,19722,Long-Acting Injec
+FL,223574.85,53536,Low-Intensity Sta
+FL,5369954.86,21304,Medication Treatm
+FL,13694026.24,506453,Opioid Medication
+FL,47880743.55,398540,Oral Antipsychoti
+FL,5290065.56,34888,Osteoporosis Medi
+FL,164700253.22,2875478,Potentially Harmf
+FL,829579.71,3545,Retinoid Medicati
+FL,74162483.05,420711,SSD Antipsychotic
+FL,2365923.18,368562,Systemic Corticos
+FL,13216806.18,505434,UOD Opioid Medica
+GA,35954.72,3038,5-ARI Medications
+GA,12849484.43,786776,AAB Antibiotic Me
+GA,2321973.73,195247,ACE Inhibitor/ARB
+GA,49799543.64,505983,ADHD Medications
+GA,6201456.39,461508,All Other Antibio
+GA,6646800.03,325252,Antibiotics of Co
+GA,5988769.93,465034,Antidepressant Me
+GA,5276.84,49,Antipsychotic Com
+GA,34248326.02,224563,Antipsychotic Med
+GA,41513758.85,258580,Asthma Controller
+GA,37244658.96,136811,Asthma Exclusions
+GA,14717179.93,217482,Asthma Reliever M
+GA,1886614.7,152883,Beta-Blocker Medi
+GA,48255190.37,442103,Bronchodilator Me
+GA,9969205.12,724256,CWP Antibiotic Me
+GA,5716201.01,128482,Contraceptive Med
+GA,1694694.94,252858,Corticosteroid Me
+GA,2232425.97,297405,Cox-2 Selective N
+GA,27545826.02,31069,DMARD Medications
+GA,289753.84,10119,Dementia Medicati
+GA,45079144.49,146401,Diabetes Medicati
+GA,1756765.79,189701,Diuretic Medicati
+GA,2271862.93,137266,High and Moderate
+GA,8673548.39,589036,High-Risk Medicat
+GA,19304748.75,15275,Long-Acting Injec
+GA,211392.38,21153,Low-Intensity Sta
+GA,2233307.65,9228,Medication Treatm
+GA,7843746.64,345645,Opioid Medication
+GA,14910636.29,208396,Oral Antipsychoti
+GA,2165189.63,7320,Osteoporosis Medi
+GA,84986379.75,1582210,Potentially Harmf
+GA,325744.09,1413,Retinoid Medicati
+GA,34247824.41,224540,SSD Antipsychotic
+GA,1315324.78,216556,Systemic Corticos
+GA,6513611.52,342888,UOD Opioid Medica
+HI,6649.25,962,5-ARI Medications
+HI,1222875.63,83107,AAB Antibiotic Me
+HI,405640.24,55128,ACE Inhibitor/ARB
+HI,974243.13,14409,ADHD Medications
+HI,666055.39,49262,All Other Antibio
+HI,556820.24,33845,Antibiotics of Co
+HI,1150707.12,46924,Antidepressant Me
+HI,,,Antipsychotic Com
+HI,5213458.96,14986,Antipsychotic Med
+HI,5680317.93,24655,Asthma Controller
+HI,5295400.45,16920,Asthma Exclusions
+HI,1921931.96,34062,Asthma Reliever M
+HI,249415.21,25247,Beta-Blocker Medi
+HI,7145396.12,66348,Bronchodilator Me
+HI,1026147.38,77406,CWP Antibiotic Me
+HI,1824270.88,22760,Contraceptive Med
+HI,125474.15,21780,Corticosteroid Me
+HI,328772.81,47970,Cox-2 Selective N
+HI,4842920.05,4693,DMARD Medications
+HI,8046.19,278,Dementia Medicati
+HI,12674082.66,34769,Diabetes Medicati
+HI,173655.53,28602,Diuretic Medicati
+HI,,,Estrogen Agonists
+HI,335271.69,41141,High and Moderate
+HI,476727.46,50557,High-Risk Medicat
+HI,2095802.65,1068,Long-Acting Injec
+HI,29809.25,4601,Low-Intensity Sta
+HI,708926.92,4459,Medication Treatm
+HI,795664.77,45430,Opioid Medication
+HI,3117505.04,13906,Oral Antipsychoti
+HI,304438.8,2564,Osteoporosis Medi
+HI,8413281.31,124802,Potentially Harmf
+HI,64318.82,288,Retinoid Medicati
+HI,5213458.96,14986,SSD Antipsychotic
+HI,110603.04,19484,Systemic Corticos
+HI,795664.77,45430,UOD Opioid Medica
+IA,1373.76,400,5-ARI Medications
+IA,3734358.24,187840,AAB Antibiotic Me
+IA,244992.77,36290,ACE Inhibitor/ARB
+IA,23576678.91,181798,ADHD Medications
+IA,2018496.72,108354,All Other Antibio
+IA,1714755.27,79452,Antibiotics of Co
+IA,2155728.06,222119,Antidepressant Me
+IA,,,Antipsychotic Com
+IA,11974635.25,88755,Antipsychotic Med
+IA,7637950.74,59143,Asthma Controller
+IA,6454788.76,23606,Asthma Exclusions
+IA,2646436.85,44982,Asthma Reliever M
+IA,332882.49,31157,Beta-Blocker Medi
+IA,10090090.4,91529,Bronchodilator Me
+IA,2574570.64,175168,CWP Antibiotic Me
+IA,3539327.49,40772,Contraceptive Med
+IA,1287544.44,53414,Corticosteroid Me
+IA,1071918.3,57448,Cox-2 Selective N
+IA,7813650.37,9825,DMARD Medications
+IA,72579.37,879,Dementia Medicati
+IA,12417618.47,35802,Diabetes Medicati
+IA,163685.44,31542,Diuretic Medicati
+IA,130047.41,32163,High and Moderate
+IA,2199202.43,130400,High-Risk Medicat
+IA,4580753.42,3724,Long-Acting Injec
+IA,5371.73,2097,Low-Intensity Sta
+IA,758304.76,8737,Medication Treatm
+IA,963873.66,105517,Opioid Medication
+IA,7339192.14,84619,Oral Antipsychoti
+IA,651399.27,1621,Osteoporosis Medi
+IA,22090580.09,466213,Potentially Harmf
+IA,115257.56,352,Retinoid Medicati
+IA,11967761.06,88704,SSD Antipsychotic
+IA,1105431.9,43356,Systemic Corticos
+IA,960402.54,105505,UOD Opioid Medica
+ID,4124.94,297,5-ARI Medications
+ID,2084412.86,99723,AAB Antibiotic Me
+ID,315036.99,20973,ACE Inhibitor/ARB
+ID,10500073.07,71530,ADHD Medications
+ID,1232531.76,59537,All Other Antibio
+ID,851881.1,40186,Antibiotics of Co
+ID,2383136.83,115001,Antidepressant Me
+ID,,,Antipsychotic Com
+ID,12439677.31,49459,Antipsychotic Med
+ID,4195098.93,28690,Asthma Controller
+ID,3140090.38,11279,Asthma Exclusions
+ID,2053062.49,27195,Asthma Reliever M
+ID,288100.24,16664,Beta-Blocker Medi
+ID,5321559.64,46598,Bronchodilator Me
+ID,1510187.09,92752,CWP Antibiotic Me
+ID,2112902.61,18410,Contraceptive Med
+ID,270383.97,30232,Corticosteroid Me
+ID,354376.87,31826,Cox-2 Selective N
+ID,7381833.37,8200,DMARD Medications
+ID,3852.27,276,Dementia Medicati
+ID,9318544.89,22029,Diabetes Medicati
+ID,244663.13,18493,Diuretic Medicati
+ID,320924.29,16269,High and Moderate
+ID,1367976.78,78658,High-Risk Medicat
+ID,5268954.39,2726,Long-Acting Injec
+ID,15149.51,1107,Low-Intensity Sta
+ID,936514.02,5352,Medication Treatm
+ID,1458433.25,48548,Opioid Medication
+ID,7167679.66,46371,Oral Antipsychoti
+ID,185408.88,1264,Osteoporosis Medi
+ID,24527226.04,264866,Potentially Harmf
+ID,272820.46,963,Retinoid Medicati
+ID,12439677.31,49459,SSD Antipsychotic
+ID,223297.26,25436,Systemic Corticos
+ID,1289385.72,48214,UOD Opioid Medica
+IL,42658.85,6346,5-ARI Medications
+IL,10967586.85,740465,AAB Antibiotic Me
+IL,3286394.97,386932,ACE Inhibitor/ARB
+IL,25760478.99,284276,ADHD Medications
+IL,6614869.15,448915,All Other Antibio
+IL,4350613.46,291533,Antibiotics of Co
+IL,7344690.03,714929,Antidepressant Me
+IL,,,Antipsychotic Com
+IL,34262752.56,282647,Antipsychotic Med
+IL,43794913.89,285748,Asthma Controller
+IL,40035798.9,140331,Asthma Exclusions
+IL,18069866.17,275729,Asthma Reliever M
+IL,2760996.79,243763,Beta-Blocker Medi
+IL,60763577.66,512785,Bronchodilator Me
+IL,7741349.44,661114,CWP Antibiotic Me
+IL,11775818.98,221055,Contraceptive Med
+IL,1500087.12,189404,Corticosteroid Me
+IL,3100413.41,377931,Cox-2 Selective N
+IL,54281395.55,58258,DMARD Medications
+IL,65587.4,8330,Dementia Medicati
+IL,98295030.57,312178,Diabetes Medicati
+IL,2309919.16,300274,Diuretic Medicati
+IL,538.29,47,Estrogen Agonists
+IL,2319768.89,300761,High and Moderate
+IL,6416903.82,494146,High-Risk Medicat
+IL,12811943,12560,Long-Acting Injec
+IL,246883.14,38236,Low-Intensity Sta
+IL,14035536.86,51216,Medication Treatm
+IL,3944944.53,344644,Opioid Medication
+IL,21379397.88,268130,Oral Antipsychoti
+IL,1960079.72,15634,Osteoporosis Medi
+IL,77051781.09,1893705,Potentially Harmf
+IL,247768.78,613,Retinoid Medicati
+IL,34256250.91,282580,SSD Antipsychotic
+IL,1267781.39,168919,Systemic Corticos
+IL,3944944.53,344644,UOD Opioid Medica
+IN,23291.29,2022,5-ARI Medications
+IN,11740461.74,493129,AAB Antibiotic Me
+IN,3196540.48,212018,ACE Inhibitor/ARB
+IN,55241362.45,402268,ADHD Medications
+IN,7957798.85,301478,All Other Antibio
+IN,3779059.74,191628,Antibiotics of Co
+IN,20308820.45,654250,Antidepressant Me
+IN,35827.57,128,Antipsychotic Com
+IN,73593672.07,228586,Antipsychotic Med
+IN,34967511.04,182088,Asthma Controller
+IN,30069750.92,98893,Asthma Exclusions
+IN,9535857.9,158980,Asthma Reliever M
+IN,3368591.08,162295,Beta-Blocker Medi
+IN,50165989.7,357417,Bronchodilator Me
+IN,6994094.02,447406,CWP Antibiotic Me
+IN,6152053.68,124595,Contraceptive Med
+IN,2076194.75,135954,Corticosteroid Me
+IN,2884434.29,246094,Cox-2 Selective N
+IN,51727506.39,34350,DMARD Medications
+IN,274991.19,5002,Dementia Medicati
+IN,78296061.2,179034,Diabetes Medicati
+IN,1629929.45,183019,Diuretic Medicati
+IN,,,Estrogen Agonists
+IN,2520246.71,155172,High and Moderate
+IN,10745112.49,479447,High-Risk Medicat
+IN,21949514.26,12137,Long-Acting Injec
+IN,111766.25,13196,Low-Intensity Sta
+IN,16749534.66,98069,Medication Treatm
+IN,8420954.64,290301,Opioid Medication
+IN,51570416.12,214895,Oral Antipsychoti
+IN,5489785.17,9102,Osteoporosis Medi
+IN,138664384.58,1561510,Potentially Harmf
+IN,263538.61,713,Retinoid Medicati
+IN,73585988.61,228517,SSD Antipsychotic
+IN,1128289.83,123308,Systemic Corticos
+IN,7955398.4,289299,UOD Opioid Medica
+KS,5816.72,411,5-ARI Medications
+KS,2771142.36,126962,AAB Antibiotic Me
+KS,474121.72,19950,ACE Inhibitor/ARB
+KS,13873908.84,111837,ADHD Medications
+KS,1645661.65,77469,All Other Antibio
+KS,1123056.44,49478,Antibiotics of Co
+KS,3083091.68,126325,Antidepressant Me
+KS,,,Antipsychotic Com
+KS,16942834.9,62961,Antipsychotic Med
+KS,7872266.09,43989,Asthma Controller
+KS,6882340.47,23713,Asthma Exclusions
+KS,2876912.38,38350,Asthma Reliever M
+KS,326327.21,16728,Beta-Blocker Medi
+KS,9907275.62,73614,Bronchodilator Me
+KS,2394955.81,118262,CWP Antibiotic Me
+KS,1924684.52,18624,Contraceptive Med
+KS,406497.89,33267,Corticosteroid Me
+KS,582238.9,40281,Cox-2 Selective N
+KS,5852697.48,5833,DMARD Medications
+KS,22592.31,789,Dementia Medicati
+KS,12115353.25,27800,Diabetes Medicati
+KS,324721.78,19050,Diuretic Medicati
+KS,,,Estrogen Agonists
+KS,306330.03,17503,High and Moderate
+KS,2464227.45,108322,High-Risk Medicat
+KS,6043960.94,3193,Long-Acting Injec
+KS,23208.08,1538,Low-Intensity Sta
+KS,484544.37,2738,Medication Treatm
+KS,2816563.12,67454,Opioid Medication
+KS,10885807.34,59422,Oral Antipsychoti
+KS,595754.23,1276,Osteoporosis Medi
+KS,27822725.9,311309,Potentially Harmf
+KS,142296.02,261,Retinoid Medicati
+KS,16940737.56,62936,SSD Antipsychotic
+KS,364869.16,30805,Systemic Corticos
+KS,2776164.96,67388,UOD Opioid Medica
+KY,22759.14,4624,5-ARI Medications
+KY,11150402.61,795935,AAB Antibiotic Me
+KY,2186091.45,409469,ACE Inhibitor/ARB
+KY,31276682.32,373098,ADHD Medications
+KY,4344746.15,421520,All Other Antibio
+KY,6798225.52,374339,Antibiotics of Co
+KY,12843190.42,935477,Antidepressant Me
+KY,8547.67,54,Antipsychotic Com
+KY,30912853.75,218302,Antipsychotic Med
+KY,43671407.24,313373,Asthma Controller
+KY,39085676.51,125816,Asthma Exclusions
+KY,13188766.73,237007,Asthma Reliever M
+KY,2681182.38,295224,Beta-Blocker Medi
+KY,67666107.95,469894,Bronchodilator Me
+KY,8686443.7,736075,CWP Antibiotic Me
+KY,7160839.84,183092,Contraceptive Med
+KY,1593643.17,217553,Corticosteroid Me
+KY,3155737.25,472117,Cox-2 Selective N
+KY,41776674.18,36763,DMARD Medications
+KY,102316.26,4134,Dementia Medicati
+KY,106809443.36,270305,Diabetes Medicati
+KY,1341552.03,331620,Diuretic Medicati
+KY,,,Estrogen Agonists
+KY,2112356.92,293053,High and Moderate
+KY,11090727.54,886608,High-Risk Medicat
+KY,10745227.49,5807,Long-Acting Injec
+KY,201363.52,39650,Low-Intensity Sta
+KY,35702309.6,310347,Medication Treatm
+KY,5896143.83,406524,Opioid Medication
+KY,20146697.95,212034,Oral Antipsychoti
+KY,1336157.88,12217,Osteoporosis Medi
+KY,79354757.69,2261199,Potentially Harmf
+KY,492204.13,1454,Retinoid Medicati
+KY,30901712.12,218206,SSD Antipsychotic
+KY,1235679.89,196684,Systemic Corticos
+KY,5731263.75,406109,UOD Opioid Medica
+LA,34192.98,4136,5-ARI Medications
+LA,10251884.68,839334,AAB Antibiotic Me
+LA,3523154.92,379342,ACE Inhibitor/ARB
+LA,48661627.04,491789,ADHD Medications
+LA,4926956.79,447293,All Other Antibio
+LA,5322810.56,391940,Antibiotics of Co
+LA,8316298.76,654860,Antidepressant Me
+LA,10715.05,110,Antipsychotic Com
+LA,34929871.38,214027,Antipsychotic Med
+LA,23070391.73,207364,Asthma Controller
+LA,19018783.91,67853,Asthma Exclusions
+LA,9080296.95,152594,Asthma Reliever M
+LA,2165524.69,219784,Beta-Blocker Medi
+LA,30876260.41,301420,Bronchodilator Me
+LA,8276555.2,758223,CWP Antibiotic Me
+LA,9758727.65,223700,Contraceptive Med
+LA,1675718.84,265515,Corticosteroid Me
+LA,3287111.55,408970,Cox-2 Selective N
+LA,33299024.76,33974,DMARD Medications
+LA,178971.34,4862,Dementia Medicati
+LA,61715521.32,197513,Diabetes Medicati
+LA,2215217.14,337331,Diuretic Medicati
+LA,2220361.33,215756,High and Moderate
+LA,9503761.71,793579,High-Risk Medicat
+LA,18589282.02,12968,Long-Acting Injec
+LA,283556.27,35162,Low-Intensity Sta
+LA,14731726.24,46193,Medication Treatm
+LA,3954228,369922,Opioid Medication
+LA,16319163.32,199721,Oral Antipsychoti
+LA,359916.8,8827,Osteoporosis Medi
+LA,67446873.22,1820615,Potentially Harmf
+LA,510667.17,1783,Retinoid Medicati
+LA,34938691.91,214123,SSD Antipsychotic
+LA,1637415.98,254756,Systemic Corticos
+LA,3931529.09,369853,UOD Opioid Medica
+MA,46498.25,4984,5-ARI Medications
+MA,9095852.36,452352,AAB Antibiotic Me
+MA,2489811.51,277209,ACE Inhibitor/ARB
+MA,52295829.02,464886,ADHD Medications
+MA,5482029.55,291490,All Other Antibio
+MA,3613822.81,160862,Antibiotics of Co
+MA,11420973.99,783736,Antidepressant Me
+MA,,,Antipsychotic Com
+MA,33447950.11,256438,Antipsychotic Med
+MA,41348521.96,188630,Asthma Controller
+MA,36041788.56,129233,Asthma Exclusions
+MA,13100270.59,203575,Asthma Reliever M
+MA,3215772.03,186930,Beta-Blocker Medi
+MA,43304248.07,343369,Bronchodilator Me
+MA,6420097.58,410039,CWP Antibiotic Me
+MA,8769574.79,184266,Contraceptive Med
+MA,846490.97,109259,Corticosteroid Me
+MA,2539258.88,265099,Cox-2 Selective N
+MA,49219615.57,41302,DMARD Medications
+MA,73816.75,4245,Dementia Medicati
+MA,64567763.64,183798,Diabetes Medicati
+MA,1507443.07,189853,Diuretic Medicati
+MA,,,Estrogen Agonists
+MA,2275968.76,237368,High and Moderate
+MA,6899706.51,433758,High-Risk Medicat
+MA,9691643.85,7306,Long-Acting Injec
+MA,218334.26,27563,Low-Intensity Sta
+MA,67921419.96,269112,Medication Treatm
+MA,5789176.82,221189,Opioid Medication
+MA,23715579.32,248804,Oral Antipsychoti
+MA,795746.47,13743,Osteoporosis Medi
+MA,77655428.67,1752050,Potentially Harmf
+MA,839389.72,2251,Retinoid Medicati
+MA,33441872.39,256374,SSD Antipsychotic
+MA,717271.26,92665,Systemic Corticos
+MA,5673834.54,220934,UOD Opioid Medica
+MD,16027.66,2246,5-ARI Medications
+MD,5637956.43,520555,AAB Antibiotic Me
+MD,1821159.35,267022,ACE Inhibitor/ARB
+MD,49993195.03,321865,ADHD Medications
+MD,3310289.59,315227,All Other Antibio
+MD,2327666.84,205328,Antibiotics of Co
+MD,11804783.67,539117,Antidepressant Me
+MD,,,Antipsychotic Com
+MD,32530655.5,213399,Antipsychotic Med
+MD,25016887.69,164121,Asthma Controller
+MD,22514633.14,87361,Asthma Exclusions
+MD,10207428.37,173124,Asthma Reliever M
+MD,1213809.99,150841,Beta-Blocker Medi
+MD,31366343.43,301647,Bronchodilator Me
+MD,4413637.72,461462,CWP Antibiotic Me
+MD,5632626.36,146232,Contraceptive Med
+MD,578685.34,119616,Corticosteroid Me
+MD,1548170.82,289689,Cox-2 Selective N
+MD,32451505.87,28827,DMARD Medications
+MD,35845.1,1792,Dementia Medicati
+MD,54614284.68,174363,Diabetes Medicati
+MD,980612.7,213882,Diuretic Medicati
+MD,1517536.21,188972,High and Moderate
+MD,6273932.96,437208,High-Risk Medicat
+MD,12470687.64,10012,Long-Acting Injec
+MD,126824.65,22125,Low-Intensity Sta
+MD,40518445.75,154496,Medication Treatm
+MD,6445616.57,308260,Opioid Medication
+MD,20035376.21,202936,Oral Antipsychoti
+MD,453701.65,6588,Osteoporosis Medi
+MD,78711364.37,1407521,Potentially Harmf
+MD,435817.7,1237,Retinoid Medicati
+MD,32522717.15,213331,SSD Antipsychotic
+MD,536411.33,116291,Systemic Corticos
+MD,6402153.54,308148,UOD Opioid Medica
+ME,1450.91,115,5-ARI Medications
+ME,1243841.84,64643,AAB Antibiotic Me
+ME,307498.82,12623,ACE Inhibitor/ARB
+ME,15139628.64,98789,ADHD Medications
+ME,739617.22,39236,All Other Antibio
+ME,504224.62,25407,Antibiotics of Co
+ME,2113573.72,107417,Antidepressant Me
+ME,5825016.35,35393,Antipsychotic Med
+ME,6516205.57,25880,Asthma Controller
+ME,6095221.58,18941,Asthma Exclusions
+ME,3024143.33,32454,Asthma Reliever M
+ME,284809.23,11203,Beta-Blocker Medi
+ME,10160442.54,64676,Bronchodilator Me
+ME,1087491.39,59857,CWP Antibiotic Me
+ME,1593828.01,21818,Contraceptive Med
+ME,196194.79,18392,Corticosteroid Me
+ME,249537.52,16129,Cox-2 Selective N
+ME,6171652.82,3955,DMARD Medications
+ME,2078.8,193,Dementia Medicati
+ME,10650668.45,22971,Diabetes Medicati
+ME,150511.64,9595,Diuretic Medicati
+ME,886054.44,14504,High and Moderate
+ME,1499735.5,66106,High-Risk Medicat
+ME,1553113.34,951,Long-Acting Injec
+ME,9230.65,736,Low-Intensity Sta
+ME,7217275.5,43319,Medication Treatm
+ME,1317954.14,35345,Opioid Medication
+ME,4268908.7,34400,Oral Antipsychoti
+ME,283156,539,Osteoporosis Medi
+ME,15496065.82,232265,Potentially Harmf
+ME,29297.64,96,Retinoid Medicati
+ME,5825016.35,35393,SSD Antipsychotic
+ME,159780.41,15377,Systemic Corticos
+ME,1135384.6,34980,UOD Opioid Medica
+MI,38433.87,5646,5-ARI Medications
+MI,10998749.7,811835,AAB Antibiotic Me
+MI,2863975.33,506086,ACE Inhibitor/ARB
+MI,77793300.8,572408,ADHD Medications
+MI,5657097.74,504079,All Other Antibio
+MI,5341651.96,307756,Antibiotics of Co
+MI,33685119.8,1157314,Antidepressant Me
+MI,127700.3,433,Antipsychotic Com
+MI,120622302.35,475816,Antipsychotic Med
+MI,56482618.82,331464,Asthma Controller
+MI,50642587.16,189888,Asthma Exclusions
+MI,18341114.05,336802,Asthma Reliever M
+MI,3429227.24,343209,Beta-Blocker Medi
+MI,71120453.8,609877,Bronchodilator Me
+MI,8264108.04,732164,CWP Antibiotic Me
+MI,8442362.02,209176,Contraceptive Med
+MI,1550374.03,224821,Corticosteroid Me
+MI,3912781.65,595973,Cox-2 Selective N
+MI,53197815.04,65115,DMARD Medications
+MI,52130.64,4641,Dementia Medicati
+MI,97354250.25,316325,Diabetes Medicati
+MI,2235958.63,397724,Diuretic Medicati
+MI,,,Estrogen Agonists
+MI,3404114.87,382297,High and Moderate
+MI,13040992.57,836818,High-Risk Medicat
+MI,40786045.26,29811,Long-Acting Injec
+MI,206127.58,41541,Low-Intensity Sta
+MI,35931392.63,96844,Medication Treatm
+MI,10684029.49,642565,Opioid Medication
+MI,79779802.23,445354,Oral Antipsychoti
+MI,1368163.23,14995,Osteoporosis Medi
+MI,233935070.04,2955681,Potentially Harmf
+MI,351692.8,748,Retinoid Medicati
+MI,120597875.33,475540,SSD Antipsychotic
+MI,1374277.89,207431,Systemic Corticos
+MI,10532774.55,642202,UOD Opioid Medica
+MN,19872.79,3241,5-ARI Medications
+MN,7236532.2,354079,AAB Antibiotic Me
+MN,1293695.52,183790,ACE Inhibitor/ARB
+MN,34581399.09,306504,ADHD Medications
+MN,4576173.96,215078,All Other Antibio
+MN,2656865.51,138972,Antibiotics of Co
+MN,11521568.5,696380,Antidepressant Me
+MN,,,Antipsychotic Com
+MN,29564524.99,188634,Antipsychotic Med
+MN,18046270.14,114324,Asthma Controller
+MN,16974306.25,63925,Asthma Exclusions
+MN,7185262.69,117027,Asthma Reliever M
+MN,2042707.16,135298,Beta-Blocker Medi
+MN,26813637.56,230420,Bronchodilator Me
+MN,5097400.4,320003,CWP Antibiotic Me
+MN,9941781.61,85009,Contraceptive Med
+MN,903043.1,102825,Corticosteroid Me
+MN,1813742.67,148172,Cox-2 Selective N
+MN,41234090.26,33800,DMARD Medications
+MN,134115.68,3877,Dementia Medicati
+MN,54408319.6,144029,Diabetes Medicati
+MN,1094715.53,144554,Diuretic Medicati
+MN,1154367.61,147989,High and Moderate
+MN,5382946.1,341458,High-Risk Medicat
+MN,9835867.23,6743,Long-Acting Injec
+MN,65409.93,12299,Low-Intensity Sta
+MN,7085903.13,34919,Medication Treatm
+MN,4806707.21,204844,Opioid Medication
+MN,19691478.81,181378,Oral Antipsychoti
+MN,1205079.03,6485,Osteoporosis Medi
+MN,60537480.69,1272714,Potentially Harmf
+MN,939577.44,2390,Retinoid Medicati
+MN,29564524.99,188634,SSD Antipsychotic
+MN,657095,83078,Systemic Corticos
+MN,4627870.35,204393,UOD Opioid Medica
+MO,72104.74,3219,5-ARI Medications
+MO,14878850.42,424471,AAB Antibiotic Me
+MO,3639482.4,133939,ACE Inhibitor/ARB
+MO,46289413.9,313273,ADHD Medications
+MO,8239533.65,248330,All Other Antibio
+MO,6637545.34,176125,Antibiotics of Co
+MO,18125796.8,474544,Antidepressant Me
+MO,33478.62,160,Antipsychotic Com
+MO,74638532.37,241390,Antipsychotic Med
+MO,33293830.37,187045,Asthma Controller
+MO,26300874.2,87054,Asthma Exclusions
+MO,11584534.75,138403,Asthma Reliever M
+MO,2979165.61,113699,Beta-Blocker Medi
+MO,42592863.02,289246,Bronchodilator Me
+MO,11476587.88,394909,CWP Antibiotic Me
+MO,7157149.68,79191,Contraceptive Med
+MO,2409926.41,123923,Corticosteroid Me
+MO,4665092.64,185303,Cox-2 Selective N
+MO,28358432.64,24077,DMARD Medications
+MO,427461.35,6744,Dementia Medicati
+MO,48937488.85,115937,Diabetes Medicati
+MO,2655773.98,123375,Diuretic Medicati
+MO,2739892.29,111476,High and Moderate
+MO,12763797.77,391123,High-Risk Medicat
+MO,26859316.1,15351,Long-Acting Injec
+MO,264299.81,12408,Low-Intensity Sta
+MO,8724102.56,29190,Medication Treatm
+MO,13547268.88,233404,Opioid Medication
+MO,47711083.05,224469,Oral Antipsychoti
+MO,1602209.96,5657,Osteoporosis Medi
+MO,132881438.46,1295417,Potentially Harmf
+MO,318973.41,920,Retinoid Medicati
+MO,74633523.05,241336,SSD Antipsychotic
+MO,1976656.38,104648,Systemic Corticos
+MO,12830730.46,231984,UOD Opioid Medica
+MS,3116.73,288,5-ARI Medications
+MS,7092636.5,341587,AAB Antibiotic Me
+MS,1295700.27,67413,ACE Inhibitor/ARB
+MS,30180226.05,193932,ADHD Medications
+MS,3259785.04,173442,All Other Antibio
+MS,3831272.18,168123,Antibiotics of Co
+MS,2998301.01,122625,Antidepressant Me
+MS,26652.7,221,Antipsychotic Com
+MS,11962277.54,77050,Antipsychotic Med
+MS,8620364.09,86890,Asthma Controller
+MS,6916958.37,22877,Asthma Exclusions
+MS,3548768.61,50051,Asthma Reliever M
+MS,799096.57,46249,Beta-Blocker Medi
+MS,11972940.22,108007,Bronchodilator Me
+MS,6278117.84,315381,CWP Antibiotic Me
+MS,4066760.16,60813,Contraceptive Med
+MS,1269222.69,81046,Corticosteroid Me
+MS,1317753.44,90838,Cox-2 Selective N
+MS,9892281.29,8921,DMARD Medications
+MS,8842.3,831,Dementia Medicati
+MS,22828431.85,55051,Diabetes Medicati
+MS,847759.7,67029,Diuretic Medicati
+MS,,,Estrogen Agonists
+MS,539848.41,38922,High and Moderate
+MS,4880742.33,260785,High-Risk Medicat
+MS,4023522.74,3681,Long-Acting Injec
+MS,89103.27,7103,Low-Intensity Sta
+MS,1942605.23,5873,Medication Treatm
+MS,2636716.94,122873,Opioid Medication
+MS,7962399.6,73481,Oral Antipsychoti
+MS,74511.77,444,Osteoporosis Medi
+MS,32338548.49,545066,Potentially Harmf
+MS,97423.24,348,Retinoid Medicati
+MS,11988930.24,77271,SSD Antipsychotic
+MS,1183494.13,73858,Systemic Corticos
+MS,2530096.81,122668,UOD Opioid Medica
+MT,7631.29,594,5-ARI Medications
+MT,2022577.68,86236,AAB Antibiotic Me
+MT,551163.99,42135,ACE Inhibitor/ARB
+MT,9500917.25,62743,ADHD Medications
+MT,1144434.42,49386,All Other Antibio
+MT,878143.26,36850,Antibiotics of Co
+MT,2881040.05,155680,Antidepressant Me
+MT,,,Antipsychotic Com
+MT,8073062.14,41693,Antipsychotic Med
+MT,6558039.33,31007,Asthma Controller
+MT,5609364.58,17989,Asthma Exclusions
+MT,2343023.67,31927,Asthma Reliever M
+MT,516403.86,26485,Beta-Blocker Medi
+MT,8831298.29,58006,Bronchodilator Me
+MT,1543047.3,78990,CWP Antibiotic Me
+MT,2800707.81,31471,Contraceptive Med
+MT,374805.39,25498,Corticosteroid Me
+MT,583923.43,40021,Cox-2 Selective N
+MT,14333066.05,9331,DMARD Medications
+MT,2879.92,207,Dementia Medicati
+MT,13236973.57,31923,Diabetes Medicati
+MT,427518.19,30000,Diuretic Medicati
+MT,378756.91,26576,High and Moderate
+MT,2006636.74,95368,High-Risk Medicat
+MT,2429391.91,1146,Long-Acting Injec
+MT,23841.51,1872,Low-Intensity Sta
+MT,4081528.17,43665,Medication Treatm
+MT,2456433.05,145552,Opioid Medication
+MT,5636259.45,40342,Oral Antipsychoti
+MT,557111.21,1332,Osteoporosis Medi
+MT,17906441.92,307961,Potentially Harmf
+MT,155711.95,427,Retinoid Medicati
+MT,8073062.14,41693,SSD Antipsychotic
+MT,312258.71,21706,Systemic Corticos
+MT,2356542.32,145323,UOD Opioid Medica
+NC,24378.93,1998,5-ARI Medications
+NC,21035697.46,708217,AAB Antibiotic Me
+NC,3045137.43,153315,ACE Inhibitor/ARB
+NC,105353668.92,574152,ADHD Medications
+NC,11831378.55,412047,All Other Antibio
+NC,9203891.64,296155,Antibiotics of Co
+NC,11279078.51,490937,Antidepressant Me
+NC,54533.45,149,Antipsychotic Com
+NC,74089186.48,230564,Antipsychotic Med
+NC,39475073.29,236401,Asthma Controller
+NC,30573359.38,116504,Asthma Exclusions
+NC,15500351.95,194146,Asthma Reliever M
+NC,2213687.38,126102,Beta-Blocker Medi
+NC,45452694.75,372743,Bronchodilator Me
+NC,14767073.77,648038,CWP Antibiotic Me
+NC,16801062.44,182534,Contraceptive Med
+NC,2948396.49,214140,Corticosteroid Me
+NC,3199634.71,223789,Cox-2 Selective N
+NC,42892188.95,32559,DMARD Medications
+NC,146675.61,4236,Dementia Medicati
+NC,64972913.34,162639,Diabetes Medicati
+NC,1912413.36,154587,Diuretic Medicati
+NC,1613989.64,118501,High and Moderate
+NC,14411510.58,497498,High-Risk Medicat
+NC,29472886.65,17208,Long-Acting Injec
+NC,171559.6,14683,Low-Intensity Sta
+NC,17260468.62,83161,Medication Treatm
+NC,17723543.59,320545,Opioid Medication
+NC,44552776.91,211281,Oral Antipsychoti
+NC,1548880.05,5129,Osteoporosis Medi
+NC,155792047,1441392,Potentially Harmf
+NC,1152509.02,2404,Retinoid Medicati
+NC,74073241.04,230418,SSD Antipsychotic
+NC,2660557.79,182455,Systemic Corticos
+NC,16642562.9,317934,UOD Opioid Medica
+ND,516.11,39,5-ARI Medications
+ND,557865.26,26969,AAB Antibiotic Me
+ND,117325.55,11820,ACE Inhibitor/ARB
+ND,2789814.21,24351,ADHD Medications
+ND,337496.43,15698,All Other Antibio
+ND,220368.83,11271,Antibiotics of Co
+ND,865910.09,48132,Antidepressant Me
+ND,1676267.56,13052,Antipsychotic Med
+ND,1725354.99,9762,Asthma Controller
+ND,1513619.96,4650,Asthma Exclusions
+ND,521827.82,7491,Asthma Reliever M
+ND,173767.49,8379,Beta-Blocker Medi
+ND,2365332.34,17188,Bronchodilator Me
+ND,457587.12,24700,CWP Antibiotic Me
+ND,620921.35,7833,Contraceptive Med
+ND,104678.06,8241,Corticosteroid Me
+ND,128196.43,8823,Cox-2 Selective N
+ND,1972759.17,1914,DMARD Medications
+ND,351.12,25,Dementia Medicati
+ND,4845804.55,10222,Diabetes Medicati
+ND,100951.76,9548,Diuretic Medicati
+ND,111105.75,10130,High and Moderate
+ND,408756.74,23590,High-Risk Medicat
+ND,596939.95,370,Long-Acting Injec
+ND,7839.93,695,Low-Intensity Sta
+ND,529068.2,2444,Medication Treatm
+ND,281271.49,16061,Opioid Medication
+ND,1079327.61,12682,Oral Antipsychoti
+ND,118803.14,365,Osteoporosis Medi
+ND,4647581.27,90514,Potentially Harmf
+ND,25047.82,99,Retinoid Medicati
+ND,1676267.56,13052,SSD Antipsychotic
+ND,82016.42,6958,Systemic Corticos
+ND,281271.49,16061,UOD Opioid Medica
+NE,4534.2,376,5-ARI Medications
+NE,1882391.21,106069,AAB Antibiotic Me
+NE,272140.18,25703,ACE Inhibitor/ARB
+NE,13457316,81750,ADHD Medications
+NE,793460.63,59623,All Other Antibio
+NE,1088922.72,46429,Antibiotics of Co
+NE,1844165.35,100686,Antidepressant Me
+NE,,,Antipsychotic Com
+NE,8638272.88,56190,Antipsychotic Med
+NE,5868565.8,41926,Asthma Controller
+NE,4996746.83,16256,Asthma Exclusions
+NE,2039774.16,26024,Asthma Reliever M
+NE,310065.98,23499,Beta-Blocker Medi
+NE,7626163.28,54649,Bronchodilator Me
+NE,1749377.21,97979,CWP Antibiotic Me
+NE,540294.25,18723,Contraceptive Med
+NE,179080.85,27732,Corticosteroid Me
+NE,358782.37,46106,Cox-2 Selective N
+NE,3582894.69,5532,DMARD Medications
+NE,25591.11,1143,Dementia Medicati
+NE,9831003.59,25667,Diabetes Medicati
+NE,161288.21,23963,Diuretic Medicati
+NE,246289.21,24746,High and Moderate
+NE,1178441.8,79753,High-Risk Medicat
+NE,2781965.25,2233,Long-Acting Injec
+NE,13974.73,1761,Low-Intensity Sta
+NE,277231.54,2050,Medication Treatm
+NE,2087616.83,50571,Opioid Medication
+NE,5852039.54,53759,Oral Antipsychoti
+NE,228627.13,1749,Osteoporosis Medi
+NE,17771745.54,281133,Potentially Harmf
+NE,96339.85,324,Retinoid Medicati
+NE,8634103.86,56162,SSD Antipsychotic
+NE,162212.29,24211,Systemic Corticos
+NE,1974993.99,50350,UOD Opioid Medica
+NH,2460.27,221,5-ARI Medications
+NH,608355.77,41506,AAB Antibiotic Me
+NH,68849.93,9472,ACE Inhibitor/ARB
+NH,6373604.71,58042,ADHD Medications
+NH,347196.92,26589,All Other Antibio
+NH,261158.85,14917,Antibiotics of Co
+NH,1159258.77,69080,Antidepressant Me
+NH,,,Antipsychotic Com
+NH,3126906.38,20818,Antipsychotic Med
+NH,3883309.14,19043,Asthma Controller
+NH,3384969.48,11378,Asthma Exclusions
+NH,1177736.21,18013,Asthma Reliever M
+NH,169484,8376,Beta-Blocker Medi
+NH,4326831.65,32574,Bronchodilator Me
+NH,581080.88,39785,CWP Antibiotic Me
+NH,595775.98,12085,Contraceptive Med
+NH,67513.2,9136,Corticosteroid Me
+NH,143152.89,12417,Cox-2 Selective N
+NH,2915227.23,1830,DMARD Medications
+NH,1228.21,217,Dementia Medicati
+NH,4422035.15,10725,Diabetes Medicati
+NH,50449.67,7001,Diuretic Medicati
+NH,94174.18,10485,High and Moderate
+NH,569347.32,38122,High-Risk Medicat
+NH,1245857.98,667,Long-Acting Injec
+NH,6360.28,960,Low-Intensity Sta
+NH,4253909.93,18160,Medication Treatm
+NH,509474.72,14731,Opioid Medication
+NH,1880799.86,20118,Oral Antipsychoti
+NH,2464.22,535,Osteoporosis Medi
+NH,6510855.21,137043,Potentially Harmf
+NH,106474.66,180,Retinoid Medicati
+NH,3126906.38,20818,SSD Antipsychotic
+NH,66125.81,8927,Systemic Corticos
+NH,493270.18,14694,UOD Opioid Medica
+NJ,33851.13,5717,5-ARI Medications
+NJ,8374576.61,587750,AAB Antibiotic Me
+NJ,2297982.65,289648,ACE Inhibitor/ARB
+NJ,16150166.71,181139,ADHD Medications
+NJ,4139752.88,316443,All Other Antibio
+NJ,4234823.73,271307,Antibiotics of Co
+NJ,5981559.68,435958,Antidepressant Me
+NJ,18994.99,64,Antipsychotic Com
+NJ,29950772.24,189352,Antipsychotic Med
+NJ,21141574.95,176809,Asthma Controller
+NJ,18249384.62,90228,Asthma Exclusions
+NJ,10577850.15,191882,Asthma Reliever M
+NJ,1847285.39,178228,Beta-Blocker Medi
+NJ,29591720.06,379067,Bronchodilator Me
+NJ,6035639.81,541590,CWP Antibiotic Me
+NJ,5300071.96,140389,Contraceptive Med
+NJ,1024369.59,153552,Corticosteroid Me
+NJ,2095831.73,391182,Cox-2 Selective N
+NJ,43592490.81,39555,DMARD Medications
+NJ,157580.28,8150,Dementia Medicati
+NJ,65699255.03,239068,Diabetes Medicati
+NJ,1225505.82,208419,Diuretic Medicati
+NJ,,,Estrogen Agonists
+NJ,1442078.05,242074,High and Moderate
+NJ,5869715.12,512367,High-Risk Medicat
+NJ,13797107.15,9066,Long-Acting Injec
+NJ,125879.53,29372,Low-Intensity Sta
+NJ,16211795.68,55967,Medication Treatm
+NJ,7557117.08,226251,Opioid Medication
+NJ,16123191.91,178655,Oral Antipsychoti
+NJ,2365662.85,22561,Osteoporosis Medi
+NJ,60073698.71,1410088,Potentially Harmf
+NJ,605271.22,1481,Retinoid Medicati
+NJ,29943286.17,189277,SSD Antipsychotic
+NJ,903893.14,141256,Systemic Corticos
+NJ,7517417.33,226149,UOD Opioid Medica
+NM,21968.92,1708,5-ARI Medications
+NM,5148616.82,257331,AAB Antibiotic Me
+NM,1164762.65,95780,ACE Inhibitor/ARB
+NM,6029112.47,66124,ADHD Medications
+NM,2959367.57,153855,All Other Antibio
+NM,2188637.71,103459,Antibiotics of Co
+NM,3886945.12,221129,Antidepressant Me
+NM,,,Antipsychotic Com
+NM,6670949.95,62214,Antipsychotic Med
+NM,8206211.53,63339,Asthma Controller
+NM,7487494.57,30040,Asthma Exclusions
+NM,5177761.12,74332,Asthma Reliever M
+NM,810589.58,46209,Beta-Blocker Medi
+NM,11286568.01,118899,Bronchodilator Me
+NM,4237772.98,236259,CWP Antibiotic Me
+NM,4204862.93,64671,Contraceptive Med
+NM,776899.99,72406,Corticosteroid Me
+NM,1647696.73,134932,Cox-2 Selective N
+NM,14999013.82,16085,DMARD Medications
+NM,17693.76,1196,Dementia Medicati
+NM,23635924.6,70539,Diabetes Medicati
+NM,785484.2,63998,Diuretic Medicati
+NM,,,Estrogen Agonists
+NM,725016.45,51353,High and Moderate
+NM,3293393.17,188080,High-Risk Medicat
+NM,2649440.52,2063,Long-Acting Injec
+NM,91254.9,7323,Low-Intensity Sta
+NM,9412936.41,40471,Medication Treatm
+NM,2561819.61,132603,Opioid Medication
+NM,4013538.03,59660,Oral Antipsychoti
+NM,243864.24,3476,Osteoporosis Medi
+NM,18621515.44,546269,Potentially Harmf
+NM,288803.1,703,Retinoid Medicati
+NM,6670949.95,62214,SSD Antipsychotic
+NM,652089.47,60239,Systemic Corticos
+NM,2561819.61,132603,UOD Opioid Medica
+NV,26761.03,2177,5-ARI Medications
+NV,5701973.29,247109,AAB Antibiotic Me
+NV,1141784.43,107500,ACE Inhibitor/ARB
+NV,5544461.34,49653,ADHD Medications
+NV,3273068.64,136069,All Other Antibio
+NV,2426721.49,111001,Antibiotics of Co
+NV,3588406.71,200804,Antidepressant Me
+NV,,,Antipsychotic Com
+NV,17905873.24,91342,Antipsychotic Med
+NV,11952431.2,78840,Asthma Controller
+NV,9561108.39,31416,Asthma Exclusions
+NV,5600276.56,81875,Asthma Reliever M
+NV,796205.29,59634,Beta-Blocker Medi
+NV,17454434.52,162398,Bronchodilator Me
+NV,3021782.83,218529,CWP Antibiotic Me
+NV,3122380.76,52443,Contraceptive Med
+NV,763411.7,88084,Corticosteroid Me
+NV,1470491.96,167929,Cox-2 Selective N
+NV,13401719.5,11753,DMARD Medications
+NV,128944.72,3624,Dementia Medicati
+NV,30654247.77,75803,Diabetes Medicati
+NV,538142.79,69319,Diuretic Medicati
+NV,,,Estrogen Agonists
+NV,1263635.82,81039,High and Moderate
+NV,4351896.21,229644,High-Risk Medicat
+NV,7485135.28,3917,Long-Acting Injec
+NV,63512.73,7830,Low-Intensity Sta
+NV,2284418.46,8693,Medication Treatm
+NV,4901962.34,170493,Opioid Medication
+NV,10336535.26,82601,Oral Antipsychoti
+NV,522363.98,5484,Osteoporosis Medi
+NV,34547927.39,641710,Potentially Harmf
+NV,53691.54,153,Retinoid Medicati
+NV,17905873.24,91342,SSD Antipsychotic
+NV,654296.39,80120,Systemic Corticos
+NV,4871019.45,170438,UOD Opioid Medica
+NY,167555.59,42078,5-ARI Medications
+NY,44316255.23,1937052,AAB Antibiotic Me
+NY,5877329.25,1470221,ACE Inhibitor/ARB
+NY,34545282.83,711281,ADHD Medications
+NY,27698812.73,1087593,All Other Antibio
+NY,16600030.84,849330,Antibiotics of Co
+NY,17118891.43,1923603,Antidepressant Me
+NY,61000.67,536,Antipsychotic Com
+NY,85474981.13,822723,Antipsychotic Med
+NY,87791227.63,834450,Asthma Controller
+NY,75486329.3,466673,Asthma Exclusions
+NY,24415313.07,790234,Asthma Reliever M
+NY,5030266.94,832935,Beta-Blocker Medi
+NY,102051522.19,1512742,Bronchodilator Me
+NY,28710361.1,1762891,CWP Antibiotic Me
+NY,23945945.44,613648,Contraceptive Med
+NY,62429722.93,542938,Corticosteroid Me
+NY,18358870.73,1400920,Cox-2 Selective N
+NY,126496448.3,159739,DMARD Medications
+NY,855362.79,35700,Dementia Medicati
+NY,196274975.76,1148525,Diabetes Medicati
+NY,2738968.78,903209,Diuretic Medicati
+NY,0,15,Estrogen Agonists
+NY,6745544.56,1231777,High and Moderate
+NY,32116817.8,1754853,High-Risk Medicat
+NY,33823526.39,47351,Long-Acting Injec
+NY,423161.05,167428,Low-Intensity Sta
+NY,45299338.55,256132,Medication Treatm
+NY,10488464.79,648112,Opioid Medication
+NY,50936312.91,773229,Oral Antipsychoti
+NY,9144735.34,119990,Osteoporosis Medi
+NY,223969572.15,5373397,Potentially Harmf
+NY,1356800.04,6940,Retinoid Medicati
+NY,85462767.88,822644,SSD Antipsychotic
+NY,43974855.87,436974,Systemic Corticos
+NY,10316046.42,647277,UOD Opioid Medica
+OH,70019.06,8429,5-ARI Medications
+OH,17836895.39,1068725,AAB Antibiotic Me
+OH,4354677.66,600321,ACE Inhibitor/ARB
+OH,67683939.53,670761,ADHD Medications
+OH,9889032.19,640853,All Other Antibio
+OH,7947028.52,427858,Antibiotics of Co
+OH,28767765.21,1465360,Antidepressant Me
+OH,70972.55,429,Antipsychotic Com
+OH,123612973.43,491934,Antipsychotic Med
+OH,72272249.24,427316,Asthma Controller
+OH,65969671.3,230836,Asthma Exclusions
+OH,23186127.32,409765,Asthma Reliever M
+OH,5197194.85,432510,Beta-Blocker Medi
+OH,103521331.85,791298,Bronchodilator Me
+OH,12992204.24,952240,CWP Antibiotic Me
+OH,16275156.45,323359,Contraceptive Med
+OH,2310132.01,360879,Corticosteroid Me
+OH,6007505.53,720374,Cox-2 Selective N
+OH,50509645.77,70163,DMARD Medications
+OH,467958.09,12698,Dementia Medicati
+OH,155418240.59,460474,Diabetes Medicati
+OH,2911458.27,509142,Diuretic Medicati
+OH,830.19,24,Estrogen Agonists
+OH,5091029.8,474707,High and Moderate
+OH,16450565.74,1178124,High-Risk Medicat
+OH,38095557.24,24144,Long-Acting Injec
+OH,249139.76,41068,Low-Intensity Sta
+OH,72282760.4,433006,Medication Treatm
+OH,11918713.15,548007,Opioid Medication
+OH,85439346.45,464518,Oral Antipsychoti
+OH,2302086.02,21390,Osteoporosis Medi
+OH,213334449.89,3525081,Potentially Harmf
+OH,733884.63,1567,Retinoid Medicati
+OH,123609789.01,491901,SSD Antipsychotic
+OH,1821468.29,302643,Systemic Corticos
+OH,11205887.21,546088,UOD Opioid Medica
+OK,6084.67,414,5-ARI Medications
+OK,10406551.31,341224,AAB Antibiotic Me
+OK,782570.22,39370,ACE Inhibitor/ARB
+OK,26754879.48,220633,ADHD Medications
+OK,5727787.6,191621,All Other Antibio
+OK,4676975.13,149587,Antibiotics of Co
+OK,3529208.2,207346,Antidepressant Me
+OK,,,Antipsychotic Com
+OK,22142056.45,99131,Antipsychotic Med
+OK,13176598.57,113824,Asthma Controller
+OK,11511839.31,42515,Asthma Exclusions
+OK,6809941.37,82198,Asthma Reliever M
+OK,1069047.98,37800,Beta-Blocker Medi
+OK,17389340.46,157445,Bronchodilator Me
+OK,8356997.46,322308,CWP Antibiotic Me
+OK,4804174.29,51811,Contraceptive Med
+OK,5760831.39,115564,Corticosteroid Me
+OK,1491520.56,63950,Cox-2 Selective N
+OK,17272847.09,13408,DMARD Medications
+OK,107397.85,2727,Dementia Medicati
+OK,20146636.97,42476,Diabetes Medicati
+OK,434672.11,31452,Diuretic Medicati
+OK,363891.52,25266,High and Moderate
+OK,5255918.4,187588,High-Risk Medicat
+OK,12063549.96,5347,Long-Acting Injec
+OK,40303.76,2916,Low-Intensity Sta
+OK,2728995.21,10313,Medication Treatm
+OK,6661390.01,155220,Opioid Medication
+OK,10033032.99,93618,Oral Antipsychoti
+OK,843449.04,1748,Osteoporosis Medi
+OK,45189789.53,559256,Potentially Harmf
+OK,164917.75,580,Retinoid Medicati
+OK,22132993.94,99041,SSD Antipsychotic
+OK,4800836.96,99845,Systemic Corticos
+OK,6086533.56,153870,UOD Opioid Medica
+OR,21711.26,2210,5-ARI Medications
+OR,4010567.55,239367,AAB Antibiotic Me
+OR,961114.37,164656,ACE Inhibitor/ARB
+OR,11235741.07,147927,ADHD Medications
+OR,2441436.77,146383,All Other Antibio
+OR,1569130.78,92984,Antibiotics of Co
+OR,11108729.13,528608,Antidepressant Me
+OR,81029.12,247,Antipsychotic Com
+OR,27081435.38,136870,Antipsychotic Med
+OR,16451952.16,82922,Asthma Controller
+OR,15331640.5,54494,Asthma Exclusions
+OR,6877775.95,116070,Asthma Reliever M
+OR,1507601.17,109983,Beta-Blocker Medi
+OR,24329863.62,185928,Bronchodilator Me
+OR,2473231.57,213354,CWP Antibiotic Me
+OR,5119099.59,63759,Contraceptive Med
+OR,486739.4,66189,Corticosteroid Me
+OR,1176488.25,140811,Cox-2 Selective N
+OR,30742783.4,21119,DMARD Medications
+OR,11743.17,778,Dementia Medicati
+OR,32991764.95,105689,Diabetes Medicati
+OR,842130.62,114972,Diuretic Medicati
+OR,517.62,49,Estrogen Agonists
+OR,1031231.75,112465,High and Moderate
+OR,4272600.23,316369,High-Risk Medicat
+OR,8048683.2,4861,Long-Acting Injec
+OR,75920.9,11625,Low-Intensity Sta
+OR,5224857.65,84230,Medication Treatm
+OR,3134128.47,212994,Opioid Medication
+OR,18987004.26,129868,Oral Antipsychoti
+OR,793589.53,4554,Osteoporosis Medi
+OR,47051460.76,966892,Potentially Harmf
+OR,13834.31,34,Retinoid Medicati
+OR,27073405.74,136798,SSD Antipsychotic
+OR,390292.16,56565,Systemic Corticos
+OR,3134128.47,212994,UOD Opioid Medica
+PA,77397.79,7202,5-ARI Medications
+PA,19067021.08,911040,AAB Antibiotic Me
+PA,4170573.35,476889,ACE Inhibitor/ARB
+PA,75433832.17,674991,ADHD Medications
+PA,11353955.36,557384,All Other Antibio
+PA,7781097.2,353694,Antibiotics of Co
+PA,21313739.5,1400485,Antidepressant Me
+PA,4153.27,58,Antipsychotic Com
+PA,80917648.04,491021,Antipsychotic Med
+PA,79349809.1,415896,Asthma Controller
+PA,68641628.58,238392,Asthma Exclusions
+PA,21581178.62,373905,Asthma Reliever M
+PA,4131816.04,323801,Beta-Blocker Medi
+PA,89742788.41,684975,Bronchodilator Me
+PA,12248074.98,826677,CWP Antibiotic Me
+PA,16703680.67,297462,Contraceptive Med
+PA,2113880.63,263381,Corticosteroid Me
+PA,4970748.42,530085,Cox-2 Selective N
+PA,84445900.22,69177,DMARD Medications
+PA,101291.78,5741,Dementia Medicati
+PA,164855453.95,404563,Diabetes Medicati
+PA,2822055.83,362654,Diuretic Medicati
+PA,,,Estrogen Agonists
+PA,3423516.55,379272,High and Moderate
+PA,14627339.12,956782,High-Risk Medicat
+PA,26914886.36,17327,Long-Acting Injec
+PA,223921.81,33083,Low-Intensity Sta
+PA,74837020.3,259763,Medication Treatm
+PA,11838549.58,427317,Opioid Medication
+PA,53881778.61,471375,Oral Antipsychoti
+PA,3338694.44,17595,Osteoporosis Medi
+PA,167576980.6,3307710,Potentially Harmf
+PA,869477.38,2117,Retinoid Medicati
+PA,80879948.15,490717,SSD Antipsychotic
+PA,1809227.86,240295,Systemic Corticos
+PA,11582723.51,426666,UOD Opioid Medica
+RI,4888.46,992,5-ARI Medications
+RI,1217990.38,92518,AAB Antibiotic Me
+RI,257229.89,54424,ACE Inhibitor/ARB
+RI,6358605.03,83432,ADHD Medications
+RI,731577.15,57403,All Other Antibio
+RI,486413.23,35115,Antibiotics of Co
+RI,1947689.34,176959,Antidepressant Me
+RI,,,Antipsychotic Com
+RI,6936561.11,47449,Antipsychotic Med
+RI,7334391.77,46989,Asthma Controller
+RI,6585713.21,26105,Asthma Exclusions
+RI,2493392.47,45083,Asthma Reliever M
+RI,393453.38,38490,Beta-Blocker Medi
+RI,8497629.66,71416,Bronchodilator Me
+RI,914960.62,82595,CWP Antibiotic Me
+RI,2370785.64,49217,Contraceptive Med
+RI,206737.93,27349,Corticosteroid Me
+RI,456658.11,78734,Cox-2 Selective N
+RI,11972377.01,6878,DMARD Medications
+RI,3327.54,450,Dementia Medicati
+RI,11045908.15,39373,Diabetes Medicati
+RI,249229.54,37967,Diuretic Medicati
+RI,,,Estrogen Agonists
+RI,340929.63,52340,High and Moderate
+RI,1180542.54,97774,High-Risk Medicat
+RI,4091040.54,2607,Long-Acting Injec
+RI,20904.45,4918,Low-Intensity Sta
+RI,6628479.11,26520,Medication Treatm
+RI,977386.05,43092,Opioid Medication
+RI,2838193.41,44716,Oral Antipsychoti
+RI,53078.56,2519,Osteoporosis Medi
+RI,12463238.78,360992,Potentially Harmf
+RI,160571.57,396,Retinoid Medicati
+RI,6936561.11,47449,SSD Antipsychotic
+RI,177413.3,24308,Systemic Corticos
+RI,924349.42,42993,UOD Opioid Medica
+SC,1483.13,339,5-ARI Medications
+SC,5838433.38,312682,AAB Antibiotic Me
+SC,553075.04,49814,ACE Inhibitor/ARB
+SC,31766798.87,279564,ADHD Medications
+SC,3090242.56,179428,All Other Antibio
+SC,2748190.82,133254,Antibiotics of Co
+SC,1859753.48,170833,Antidepressant Me
+SC,,,Antipsychotic Com
+SC,16804826.02,72873,Antipsychotic Med
+SC,15307363.07,115473,Asthma Controller
+SC,12407318.87,47880,Asthma Exclusions
+SC,4622906.73,77197,Asthma Reliever M
+SC,413354.15,43011,Beta-Blocker Medi
+SC,15096218.2,145077,Bronchodilator Me
+SC,4313392.12,287920,CWP Antibiotic Me
+SC,8538727.37,95619,Contraceptive Med
+SC,5663449.67,82551,Corticosteroid Me
+SC,882396.2,81300,Cox-2 Selective N
+SC,16695170.19,11908,DMARD Medications
+SC,28532.69,776,Dementia Medicati
+SC,23643481.74,60735,Diabetes Medicati
+SC,256573.73,44189,Diuretic Medicati
+SC,294819.41,47592,High and Moderate
+SC,3441896.47,207770,High-Risk Medicat
+SC,10496449.1,14654,Long-Acting Injec
+SC,20861.93,4896,Low-Intensity Sta
+SC,2587930.92,14131,Medication Treatm
+SC,2056204.5,109544,Opioid Medication
+SC,6306036.79,58191,Oral Antipsychoti
+SC,1592431.82,1877,Osteoporosis Medi
+SC,35530221.87,532702,Potentially Harmf
+SC,101659.85,334,Retinoid Medicati
+SC,16802485.89,72845,SSD Antipsychotic
+SC,4471667.24,69493,Systemic Corticos
+SC,2049491.17,109532,UOD Opioid Medica
+SD,,,5-ARI Medications
+SD,1586415.31,39534,AAB Antibiotic Me
+SD,76387.24,6406,ACE Inhibitor/ARB
+SD,5527978.59,37014,ADHD Medications
+SD,983405.51,24412,All Other Antibio
+SD,603009.8,15122,Antibiotics of Co
+SD,602881.19,38919,Antidepressant Me
+SD,,,Antipsychotic Com
+SD,3267048.67,12607,Antipsychotic Med
+SD,2034444.11,11621,Asthma Controller
+SD,1683186.15,5218,Asthma Exclusions
+SD,535601.43,8026,Asthma Reliever M
+SD,81904.99,4845,Beta-Blocker Medi
+SD,2350942.3,21058,Bronchodilator Me
+SD,945774.09,36858,CWP Antibiotic Me
+SD,627444.54,7023,Contraceptive Med
+SD,344454.83,11021,Corticosteroid Me
+SD,196226.26,8201,Cox-2 Selective N
+SD,4570093.69,2534,DMARD Medications
+SD,114.87,17,Dementia Medicati
+SD,3724024.9,8181,Diabetes Medicati
+SD,34993.16,4722,Diuretic Medicati
+SD,44177.12,4656,High and Moderate
+SD,532898.1,22001,High-Risk Medicat
+SD,1242375.7,571,Long-Acting Injec
+SD,1960.6,338,Low-Intensity Sta
+SD,60786.88,473,Medication Treatm
+SD,459423.36,15912,Opioid Medication
+SD,2023192.66,12023,Oral Antipsychoti
+SD,780877.1,516,Osteoporosis Medi
+SD,6582504.39,79147,Potentially Harmf
+SD,122672.17,167,Retinoid Medicati
+SD,3267048.67,12607,SSD Antipsychotic
+SD,235764.63,8731,Systemic Corticos
+SD,459423.36,15912,UOD Opioid Medica
+TN,15720.85,1485,5-ARI Medications
+TN,12962641.07,714030,AAB Antibiotic Me
+TN,2489804.89,225427,ACE Inhibitor/ARB
+TN,49017455.05,328936,ADHD Medications
+TN,6214942.45,378368,All Other Antibio
+TN,6731733.95,335507,Antibiotics of Co
+TN,7715106.94,497012,Antidepressant Me
+TN,10094.65,115,Antipsychotic Com
+TN,40365229.91,172500,Antipsychotic Med
+TN,20654395.07,198552,Asthma Controller
+TN,16256362.32,65506,Asthma Exclusions
+TN,14088530.65,158238,Asthma Reliever M
+TN,1578350.88,144700,Beta-Blocker Medi
+TN,28734525.18,272377,Bronchodilator Me
+TN,10477299.16,654605,CWP Antibiotic Me
+TN,13744833.05,162484,Contraceptive Med
+TN,2010938.36,216439,Corticosteroid Me
+TN,2221178.24,226296,Cox-2 Selective N
+TN,26680282.29,29349,DMARD Medications
+TN,100298.6,2732,Dementia Medicati
+TN,53580573.95,129157,Diabetes Medicati
+TN,1653244.96,180372,Diuretic Medicati
+TN,,,Estrogen Agonists
+TN,1252607.72,121733,High and Moderate
+TN,9841604.02,462591,High-Risk Medicat
+TN,16262645.77,11962,Long-Acting Injec
+TN,164444.04,17574,Low-Intensity Sta
+TN,7695937.49,21142,Medication Treatm
+TN,7740595.56,238831,Opioid Medication
+TN,24095495.96,160484,Oral Antipsychoti
+TN,1130245.17,4281,Osteoporosis Medi
+TN,89814925.75,1244081,Potentially Harmf
+TN,292080.67,1068,Retinoid Medicati
+TN,40367304.02,172537,SSD Antipsychotic
+TN,1612028.52,180937,Systemic Corticos
+TN,7740595.56,238831,UOD Opioid Medica
+TX,50690.11,5106,5-ARI Medications
+TX,44124169.62,1912426,AAB Antibiotic Me
+TX,6408504.16,314345,ACE Inhibitor/ARB
+TX,142060937.01,903972,ADHD Medications
+TX,21707974.88,1046751,All Other Antibio
+TX,22393712.87,865427,Antibiotics of Co
+TX,15153203.88,807888,Antidepressant Me
+TX,37583.91,145,Antipsychotic Com
+TX,150515759.22,464237,Antipsychotic Med
+TX,82324211.88,594858,Asthma Controller
+TX,75629510.94,271147,Asthma Exclusions
+TX,30620187.04,390742,Asthma Reliever M
+TX,2577424.68,209811,Beta-Blocker Medi
+TX,102034357.06,933334,Bronchodilator Me
+TX,28881337.99,1801275,CWP Antibiotic Me
+TX,19539854.1,158424,Contraceptive Med
+TX,3357154.82,443199,Corticosteroid Me
+TX,6134190.61,746756,Cox-2 Selective N
+TX,62080895.9,70308,DMARD Medications
+TX,675491.1,11692,Dementia Medicati
+TX,126950769.7,318002,Diabetes Medicati
+TX,1838041.03,250161,Diuretic Medicati
+TX,2218035.49,209935,High and Moderate
+TX,34416020.58,1242068,High-Risk Medicat
+TX,50301074.43,28831,Long-Acting Injec
+TX,203794.55,31104,Low-Intensity Sta
+TX,3829060.08,17624,Medication Treatm
+TX,10273853.26,443721,Opioid Medication
+TX,100158617.31,433314,Oral Antipsychoti
+TX,2623648.25,15994,Osteoporosis Medi
+TX,323815766.26,2894862,Potentially Harmf
+TX,975205.85,2735,Retinoid Medicati
+TX,150501876.06,464078,SSD Antipsychotic
+TX,3053913.13,403918,Systemic Corticos
+TX,8418347.19,439853,UOD Opioid Medica
+UT,3722.76,497,5-ARI Medications
+UT,1966248.67,99222,AAB Antibiotic Me
+UT,243167.11,22274,ACE Inhibitor/ARB
+UT,8865218.87,73100,ADHD Medications
+UT,1159429.11,61160,All Other Antibio
+UT,806819.56,38062,Antibiotics of Co
+UT,2914265.25,128522,Antidepressant Me
+UT,,,Antipsychotic Com
+UT,13445276.34,55888,Antipsychotic Med
+UT,3561270.43,26151,Asthma Controller
+UT,3244049.79,12738,Asthma Exclusions
+UT,1486555.38,24668,Asthma Reliever M
+UT,233492.45,14346,Beta-Blocker Medi
+UT,4484712.64,41769,Bronchodilator Me
+UT,1484263.82,91970,CWP Antibiotic Me
+UT,1611926.98,19019,Contraceptive Med
+UT,232520.46,24312,Corticosteroid Me
+UT,498317.77,39846,Cox-2 Selective N
+UT,5326722.27,6312,DMARD Medications
+UT,3210.7,305,Dementia Medicati
+UT,8937482.24,22325,Diabetes Medicati
+UT,135671.32,18758,Diuretic Medicati
+UT,257909.46,17301,High and Moderate
+UT,1283424.52,82007,High-Risk Medicat
+UT,6498135.47,3781,Long-Acting Injec
+UT,7636.56,1032,Low-Intensity Sta
+UT,2544328.86,7769,Medication Treatm
+UT,1736828.88,58737,Opioid Medication
+UT,6943077.43,51765,Oral Antipsychoti
+UT,92363.86,867,Osteoporosis Medi
+UT,25663296.84,303103,Potentially Harmf
+UT,249505.95,830,Retinoid Medicati
+UT,13445276.34,55888,SSD Antipsychotic
+UT,176588.54,20489,Systemic Corticos
+UT,1661400.71,58569,UOD Opioid Medica
+VA,26981.25,2058,5-ARI Medications
+VA,13143144.8,373619,AAB Antibiotic Me
+VA,1470203.84,131630,ACE Inhibitor/ARB
+VA,32549944.05,301637,ADHD Medications
+VA,8408560.97,225749,All Other Antibio
+VA,4734583.83,147870,Antibiotics of Co
+VA,6876142.25,396327,Antidepressant Me
+VA,1452.05,17,Antipsychotic Com
+VA,38137721.15,186380,Antipsychotic Med
+VA,24793098.03,162293,Asthma Controller
+VA,20081423.45,71763,Asthma Exclusions
+VA,7791969.01,123046,Asthma Reliever M
+VA,1378231.79,102709,Beta-Blocker Medi
+VA,30485274.64,257986,Bronchodilator Me
+VA,10552109.65,342151,CWP Antibiotic Me
+VA,7201700.37,109066,Contraceptive Med
+VA,9294108.36,122747,Corticosteroid Me
+VA,7271184.56,156339,Cox-2 Selective N
+VA,22337853.37,20375,DMARD Medications
+VA,106130.82,3744,Dementia Medicati
+VA,41352343.55,111759,Diabetes Medicati
+VA,934393.09,128262,Diuretic Medicati
+VA,1157812.82,103760,High and Moderate
+VA,13825685.36,357247,High-Risk Medicat
+VA,16148947.18,11189,Long-Acting Injec
+VA,141152.78,14926,Low-Intensity Sta
+VA,7168242.12,49089,Medication Treatm
+VA,4061703.92,181278,Opioid Medication
+VA,21134391,174091,Oral Antipsychoti
+VA,1172637.95,5914,Osteoporosis Medi
+VA,84311836.55,1106991,Potentially Harmf
+VA,420767.32,1000,Retinoid Medicati
+VA,38139173.2,186397,SSD Antipsychotic
+VA,8775918.57,105968,Systemic Corticos
+VA,3880874.54,180852,UOD Opioid Medica
+VT,1702.68,117,5-ARI Medications
+VT,802052.72,49296,AAB Antibiotic Me
+VT,186433.23,12252,ACE Inhibitor/ARB
+VT,11502054.84,67866,ADHD Medications
+VT,472781.62,30356,All Other Antibio
+VT,329271.1,18940,Antibiotics of Co
+VT,1897852.74,81942,Antidepressant Me
+VT,2017909.33,15975,Antipsychotic Med
+VT,4925227.87,15342,Asthma Controller
+VT,4406231.52,11842,Asthma Exclusions
+VT,1661800.11,20847,Asthma Reliever M
+VT,217873.83,8207,Beta-Blocker Medi
+VT,6315971.06,35053,Bronchodilator Me
+VT,709636.02,46248,CWP Antibiotic Me
+VT,1410445.41,14255,Contraceptive Med
+VT,114510.27,10824,Corticosteroid Me
+VT,250165.66,17525,Cox-2 Selective N
+VT,6966786.29,3593,DMARD Medications
+VT,1226.31,85,Dementia Medicati
+VT,7869031.33,11226,Diabetes Medicati
+VT,138634.59,9058,Diuretic Medicati
+VT,232004.19,8829,High and Moderate
+VT,858931.56,43576,High-Risk Medicat
+VT,326886.13,285,Long-Acting Injec
+VT,8164.04,601,Low-Intensity Sta
+VT,9845650.38,80337,Medication Treatm
+VT,1032131.85,29554,Opioid Medication
+VT,1691023.2,15690,Oral Antipsychoti
+VT,126614.03,256,Osteoporosis Medi
+VT,7146907.06,152587,Potentially Harmf
+VT,96654.94,302,Retinoid Medicati
+VT,2017909.33,15975,SSD Antipsychotic
+VT,107652.68,10054,Systemic Corticos
+VT,1000658.59,29419,UOD Opioid Medica
+WA,24162.91,3816,5-ARI Medications
+WA,5950730.76,411560,AAB Antibiotic Me
+WA,1117513.19,232559,ACE Inhibitor/ARB
+WA,22741175.77,254335,ADHD Medications
+WA,3556622.38,256496,All Other Antibio
+WA,2394108.38,155064,Antibiotics of Co
+WA,6969194.73,652530,Antidepressant Me
+WA,,,Antipsychotic Com
+WA,32504159.83,181742,Antipsychotic Med
+WA,23449044.21,128192,Asthma Controller
+WA,20641909.63,77155,Asthma Exclusions
+WA,9991735.41,172670,Asthma Reliever M
+WA,1339741.99,150564,Beta-Blocker Medi
+WA,30378800.2,269263,Bronchodilator Me
+WA,3953264.39,372329,CWP Antibiotic Me
+WA,8365117,114794,Contraceptive Med
+WA,656968.06,105439,Corticosteroid Me
+WA,1332511.47,215578,Cox-2 Selective N
+WA,57684517.43,42166,DMARD Medications
+WA,12605.6,1524,Dementia Medicati
+WA,53041544.59,162874,Diabetes Medicati
+WA,864776.44,159222,Diuretic Medicati
+WA,,,Estrogen Agonists
+WA,1121429.88,162603,High and Moderate
+WA,4892869.56,470785,High-Risk Medicat
+WA,14569237.3,8550,Long-Acting Injec
+WA,82549.01,16605,Low-Intensity Sta
+WA,16301309.91,103588,Medication Treatm
+WA,4967057,329638,Opioid Medication
+WA,17913486.71,172601,Oral Antipsychoti
+WA,729171.02,6766,Osteoporosis Medi
+WA,59769113.71,1379350,Potentially Harmf
+WA,427218.53,1501,Retinoid Medicati
+WA,32501117.28,181704,SSD Antipsychotic
+WA,500743.56,92799,Systemic Corticos
+WA,4868175.57,329330,UOD Opioid Medica
+WI,67512.79,4924,5-ARI Medications
+WI,9889380.79,375687,AAB Antibiotic Me
+WI,2713368.14,118018,ACE Inhibitor/ARB
+WI,72901095.66,382647,ADHD Medications
+WI,6420995.08,224745,All Other Antibio
+WI,3468385.71,150942,Antibiotics of Co
+WI,11890835.56,536906,Antidepressant Me
+WI,,,Antipsychotic Com
+WI,42204543.61,192041,Antipsychotic Med
+WI,36294779.9,160303,Asthma Controller
+WI,30926532.53,97151,Asthma Exclusions
+WI,12357609.3,161303,Asthma Reliever M
+WI,2564140.62,91750,Beta-Blocker Medi
+WI,48027682.69,306341,Bronchodilator Me
+WI,6579998.67,334532,CWP Antibiotic Me
+WI,10481908.15,122506,Contraceptive Med
+WI,1145905.74,105472,Corticosteroid Me
+WI,2550118.31,168188,Cox-2 Selective N
+WI,46998694.79,40901,DMARD Medications
+WI,304857.13,7110,Dementia Medicati
+WI,64660637.27,148368,Diabetes Medicati
+WI,2148175.89,103628,Diuretic Medicati
+WI,,,Estrogen Agonists
+WI,1641351.78,90337,High and Moderate
+WI,9147650.65,361824,High-Risk Medicat
+WI,14879695.69,10934,Long-Acting Injec
+WI,171002.8,9983,Low-Intensity Sta
+WI,19109189.77,56479,Medication Treatm
+WI,10013487.34,288377,Opioid Medication
+WI,27284106.32,180814,Oral Antipsychoti
+WI,1361366.62,10801,Osteoporosis Medi
+WI,100995624.3,1261142,Potentially Harmf
+WI,688236.35,1826,Retinoid Medicati
+WI,42182321.37,191916,SSD Antipsychotic
+WI,991940.49,86489,Systemic Corticos
+WI,9002134.16,286181,UOD Opioid Medica
+WV,19851.14,1803,5-ARI Medications
+WV,7234045.08,345624,AAB Antibiotic Me
+WV,2352592.84,178498,ACE Inhibitor/ARB
+WV,22719166.06,159846,ADHD Medications
+WV,3943687.95,173125,All Other Antibio
+WV,3290357.13,172499,Antibiotics of Co
+WV,6360841.17,400877,Antidepressant Me
+WV,,,Antipsychotic Com
+WV,14300854.46,94992,Antipsychotic Med
+WV,20646937.96,146689,Asthma Controller
+WV,17666043.55,55985,Asthma Exclusions
+WV,7158720.46,102071,Asthma Reliever M
+WV,1720857.9,127148,Beta-Blocker Medi
+WV,32729812.36,212813,Bronchodilator Me
+WV,4965254.04,323201,CWP Antibiotic Me
+WV,3029349.84,71856,Contraceptive Med
+WV,1284691.92,120318,Corticosteroid Me
+WV,1805875.27,158313,Cox-2 Selective N
+WV,20318672.55,18531,DMARD Medications
+WV,40659.21,1640,Dementia Medicati
+WV,46286157.22,118428,Diabetes Medicati
+WV,1541707.89,142200,Diuretic Medicati
+WV,,,Estrogen Agonists
+WV,1647239.85,131023,High and Moderate
+WV,5434187.43,321667,High-Risk Medicat
+WV,6081784.94,3583,Long-Acting Injec
+WV,178491.57,16282,Low-Intensity Sta
+WV,27146771.68,169000,Medication Treatm
+WV,2824390.26,139091,Opioid Medication
+WV,8209859.91,90929,Oral Antipsychoti
+WV,661657.45,4756,Osteoporosis Medi
+WV,38674210.73,996555,Potentially Harmf
+WV,161975.22,615,Retinoid Medicati
+WV,14299184.52,94979,SSD Antipsychotic
+WV,1174029.38,109234,Systemic Corticos
+WV,2557171.53,138486,UOD Opioid Medica
+WY,,,5-ARI Medications
+WY,434928.8,24280,AAB Antibiotic Me
+WY,26798.99,2113,ACE Inhibitor/ARB
+WY,2239047.37,17061,ADHD Medications
+WY,238480.6,13920,All Other Antibio
+WY,196448.2,10360,Antibiotics of Co
+WY,327022.35,22259,Antidepressant Me
+WY,,,Antipsychotic Com
+WY,1851472.53,9104,Antipsychotic Med
+WY,1125334.02,7040,Asthma Controller
+WY,965039.07,2992,Asthma Exclusions
+WY,424292.17,5770,Asthma Reliever M
+WY,35679.22,1988,Beta-Blocker Medi
+WY,1393887.15,11661,Bronchodilator Me
+WY,355154.35,22638,CWP Antibiotic Me
+WY,554859.38,3996,Contraceptive Med
+WY,54856.39,6462,Corticosteroid Me
+WY,41781.66,4301,Cox-2 Selective N
+WY,1058474.79,1095,DMARD Medications
+WY,211.78,19,Dementia Medicati
+WY,1496310.93,2857,Diabetes Medicati
+WY,23771.52,2292,Diuretic Medicati
+WY,18295.83,1424,High and Moderate
+WY,264895.66,12977,High-Risk Medicat
+WY,511117.64,250,Long-Acting Injec
+WY,,,Low-Intensity Sta
+WY,108792.12,478,Medication Treatm
+WY,350723.36,11015,Opioid Medication
+WY,1340354.89,8854,Oral Antipsychoti
+WY,78953.39,224,Osteoporosis Medi
+WY,3512795.55,45836,Potentially Harmf
+WY,9409.67,42,Retinoid Medicati
+WY,1851472.53,9104,SSD Antipsychotic
+WY,49967.36,5449,Systemic Corticos
+WY,350723.36,11015,UOD Opioid Medica
+XX,1787676.91,202348,5-ARI Medications
+XX,540458124.96,25228867,AAB Antibiotic Me
+XX,114607700.88,11100393,ACE Inhibitor/ARB
+XX,1678194503.4,13560064,ADHD Medications
+XX,309090602.86,14689419,All Other Antibio
+XX,231493765.19,10537207,Antibiotics of Co
+XX,442292684.23,24094263,Antidepressant Me
+XX,1671112.22,7172,Antipsychotic Com
+XX,2094403102.4,9515382,Antipsychotic Med
+XX,1360575151.1,8752433,Asthma Controller
+XX,1185285119.5,4476600,Asthma Exclusions
+XX,488857519.29,7981344,Asthma Reliever M
+XX,89811571.72,7037890,Beta-Blocker Medi
+XX,1706655061.3,15086578,Bronchodilator Me
+XX,365421446.26,23008469,CWP Antibiotic Me
+XX,380908812.88,6000499,Contraceptive Med
+XX,142644129.64,6856227,Corticosteroid Me
+XX,134984755.4,13153392,Cox-2 Selective N
+XX,1634503470.1,1576079,DMARD Medications
+XX,10020208.36,267790,Dementia Medicati
+XX,2793925177.6,8620717,Diabetes Medicati
+XX,65799056.05,8149166,Diuretic Medicati
+XX,10043.85,434,Estrogen Agonists
+XX,88271374.41,8255837,High and Moderate
+XX,401639791.31,21934745,High-Risk Medicat
+XX,768865004.19,529508,Long-Acting Injec
+XX,7015181.77,1031638,Low-Intensity Sta
+XX,704206353.84,3376180,Medication Treatm
+XX,316759475.25,12036862,Opioid Medication
+XX,1321632169.6,8932401,Oral Antipsychoti
+XX,72819054.88,558114,Osteoporosis Medi
+XX,4157974244.7,64329464,Potentially Harmf
+XX,23812025.2,67441,Retinoid Medicati
+XX,2094194112.4,9513922,SSD Antipsychotic
+XX,113063870.34,6044267,Systemic Corticos
+XX,298644473.14,11996146,UOD Opioid Medica
