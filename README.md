@@ -4,7 +4,7 @@
 The purpose of this project is to understand and predict drug usage of the Medicaid population, which will enable local governments and health plan providers to respond strategically to reduce expenditures.
 
 * Source Code: [Github Repository](https://github.com/Viral1101/Rx_claims_hackathon2018)
-* Slides: [Presentation](https://docs.google.com/presentation/d/161zXyUf1gQDV95C6VQlIDrQCJhbf6KNRCBGZd8pqHtQ/edit?usp=sharing)
+* Presentation: [Slides](https://docs.google.com/presentation/d/161zXyUf1gQDV95C6VQlIDrQCJhbf6KNRCBGZd8pqHtQ/edit?usp=sharing)
 * Video: [Youtube](need a youtube link here)
 
 ## Requirements
