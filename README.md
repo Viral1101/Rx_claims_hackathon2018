@@ -60,8 +60,6 @@ Relevant tables from the datasets were imported into MongoDB. Database queries r
 * [Trinadha Muppala](https://github.com/rmuppala)
 * [Hari Velivela](https://github.com/Githubhari9966)
 * [Neil Pirch](https://github.com/neilpirch)
-Muppala, Trinadha (UMKC-Student); Velivela, Hari Naga Raju (UMKC-Student)
-
 
 ## License
 
