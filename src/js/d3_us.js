@@ -63,7 +63,7 @@ var div = d3.select("body").append("div")
         div.transition()
           .duration(200)
           .style("opacity", .9);
-        div.html(d.id + "<br/>" + this.getAttribute("value"))
+        div.html(d.id + "<br/>" + "$" + parseFloat(this.getAttribute("value")).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2}))
           .style("left", (d3.event.pageX) + "px")
           .style("top", (d3.event.pageY - 28) + "px");
       })

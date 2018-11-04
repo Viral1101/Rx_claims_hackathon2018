@@ -59,6 +59,7 @@
       "#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00",
       "#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c"]);
 
+<<<<<<< HEAD
   function chartData(data) {
     var labels = color.domain();
     return labels.map(function (label) {
@@ -78,6 +79,16 @@
   function loadDonut(data){
     change(chartData(data));
   }
+=======
+  function chartData() {
+    var labels = color.domain();
+    return labels.map(function (label) {
+      return {label: label, value: Math.random()}
+    });
+  }
+
+  change(chartData());
+>>>>>>> c9b4a16eb58910016cfd87b78fe4745c73881ca9
 
   function change(data) {
 
