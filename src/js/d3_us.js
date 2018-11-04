@@ -29,12 +29,9 @@ svg.append("rect")
 
 var g = svg.append("g");
 
-
-
-
-
-
-
+var div = d3.select("body").append("div")
+  .attr("class", "tooltip")
+  .style("opacity", 0);
 
 
   //var totals = input;
@@ -61,7 +58,20 @@ var g = svg.append("g");
         return result;
       })*/
       .attr("d", path)
-      .on("click", clicked);
+      .on("click", clicked)
+      .on("mouseover", function(d) {          //move the tooltip div and set the values when mousing over a bubble
+        div.transition()
+          .duration(200)
+          .style("opacity", .9);
+        div.html(d.id + "<br/>" + this.getAttribute("value"))
+          .style("left", (d3.event.pageX) + "px")
+          .style("top", (d3.event.pageY - 28) + "px");
+      })
+      .on("mouseout", function(d) {           //hide the tooltip on mouseout
+        div.transition()
+          .duration(500)
+          .style("opacity", 0);
+      });
 
     g.append("path")
       .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
@@ -72,14 +82,7 @@ var g = svg.append("g");
 
 
 function clicked(d) {
-    var x, y, k, id, abbr, state;
-  id = d.id;
-
-  d3.json("states.json", function(data) {
-    state = (data[id]);
-    abbr = state.abbr;
-    console.log(abbr);
-  });
+    var x, y, k;
 
   if (d && centered !== d) {
         var centroid = path.centroid(d);
@@ -105,30 +108,32 @@ function clicked(d) {
 
 function colorStates(totals) {
 
+  var result = 0;
+
   totals.forEach(function (D) {
     d3.selectAll("path#" + D._id)
       .style("fill", function (d) {
-        var result = 0;
         var color = "#aaa";
 
         if (D._id === d.id) {
           result = D.total;
         }
 
-        if (result <= 10^7){
+        if (result <= Math.pow(10,7)){
           color = "#0F0";
-        }else if (result <= 10^8){
+        }else if (result <= Math.pow(10,8)){
           color = "#dcff00";
-        }else if (result <= 10^8 * 5){
+        }else if (result <= Math.pow(10,8) * 5){
           color = "#ffb700";
-        }else if (result <= 10^9){
+        }else if (result <= Math.pow(10,9)){
           color = "#ff9300";
-        }else if (result <= 10^9*5){
+        }else if (result <= Math.pow(10,9)*5){
           color = "#ff1a00";
         }
 
 
         return color;
       })
+      .attr("value",result);
   })
 }
