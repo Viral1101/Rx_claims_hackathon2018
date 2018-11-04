@@ -1,4 +1,4 @@
-function makeDonut(donutData) {
+// function makeDonut(donutData) {
   var svg = d3.select("body")
     .append("svg")
     .append("g");
@@ -67,12 +67,6 @@ function makeDonut(donutData) {
   }
 
   change(chartData(donutData));
-
-  d3.select(".randomize")
-    .on("click", function () {
-      change(randomData());
-    });
-
 
   function change(data) {
 
@@ -167,4 +161,4 @@ function makeDonut(donutData) {
     polyline.exit()
       .remove();
   }
-}
+// }
