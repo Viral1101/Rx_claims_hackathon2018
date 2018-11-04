@@ -1,7 +1,7 @@
 # Prescription Drug Claims Analysis
 ## 1,3,7-Trimethylxanthine
 
-This purpose of this project is to understand and predict drug usage of the Medicaid population, which will enable local governments and health plan providers to respond strategically to reduce expenditures.
+The purpose of this project is to understand and predict drug usage of the Medicaid population, which will enable local governments and health plan providers to respond strategically to reduce expenditures.
 
 * Source: [Github Repository](https://github.com/Viral1101/Rx_claims_hackathon2018)
 
