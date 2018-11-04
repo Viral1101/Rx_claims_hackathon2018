@@ -27,6 +27,24 @@ This project is built as an interactive web application using MEAN Stack.
 
 Relevant tables from the datasets were imported into MongoDB. Database queries return data on Medicaid prescription expenditures by state and product. This data is accessed by and displayed to the user through an interactive front-end using D3.
 
+```sql
+proc sql;
+create table one as
+select f.state, total_amount_reimbursed, f.number_of_prescriptions, f.ndc, e.medication_list
+from medicaid f
+join ndcmed e
+on f.ndc = e.ndc_code;
+quit;
+
+proc sql;
+create table two as
+select state, sum(total_amount_reimbursed)as total_amount_reimbursed,
+sum(number_of_prescriptions) as number_of_prescriptions, medication_list
+from one
+group by state, medication_list;
+quit;
+```
+
 ### Technologies
 * HTML5
 * CSS
