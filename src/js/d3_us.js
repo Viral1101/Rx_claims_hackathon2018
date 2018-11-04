@@ -39,9 +39,16 @@ d3.json("us.json", function(error, us) {
 });
 
 function clicked(d) {
-    var x, y, k;
+    var x, y, k, id, abbr, state;
+  id = d.id;
 
-    if (d && centered !== d) {
+  d3.json("states.json", function(data) {
+    state = (data[id]);
+    abbr = state.abbr;
+    console.log(abbr);
+  });
+
+  if (d && centered !== d) {
         var centroid = path.centroid(d);
         x = centroid[0];
         y = centroid[1];
