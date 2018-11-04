@@ -69,12 +69,6 @@ Relevant tables from the datasets were imported into MongoDB. Database queries r
   * Chart 1: State prescription data by number of prescriptions in each Medication List category
   * Chart 2: State prescription data by total monetary expenditure on prescriptions in each Medication List category
 
-
-## Documentation
-
-
-
-
 ## Contributing Members
 
 * [Dave Walsh](https://github.com/Viral1101)
