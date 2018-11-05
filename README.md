@@ -84,10 +84,6 @@ Our donut chart visualization was also based on an example published on the D3 G
 
 MEAN stack application is based on previous code given in CSS5590_490 ICP.
 
-State_Drug_Utilization_Data_2018.csv: [Medicaid](https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-utilization-data/index.html)
-
-ndc_med_list.csv: Tab 3 from [Hedis](https://www.ncqa.org/hedis/measures/hedis-2019-ndc-license/hedis-2019-final-ndc-lists/)
-
 ## Runtime requirements
 * MongoDB insllation
   * mongoimport --db medicaid --collection prescriptions --type csv --headerline --file PATH\TO\FILE\State_Drug_Utilization_Data_2018.csv
