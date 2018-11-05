@@ -77,7 +77,6 @@ The US Map visualization was based on an example published on the D3 Github Gall
 Our donut chart visualization was also based on an example published on the D3 Github Gallery:
 [Pie Chart with Labels](http://bl.ocks.org/dbuezas/9306799)
 
-http://bl.ocks.org/dbuezas/9306799
 ## Contributing Members
 
 * [Dave Walsh](https://github.com/Viral1101)
