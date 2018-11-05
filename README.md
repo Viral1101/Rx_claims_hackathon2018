@@ -71,8 +71,9 @@ Relevant tables from the datasets were imported into MongoDB. Database queries r
   * Mouse-over tooltip wihch displays the state abbreviation and total expenditure for 2018
   * Clicking a state centers the state in the view and zooms the map
 * Donut Charts with proportional data
-  * Chart 1: State prescription data by number of prescriptions in each Medication List category
-  * Chart 2: State prescription data by total monetary expenditure on prescriptions in each Medication List category
+  * Chart starts with nationwide data by total amount reimbursed in each Medication List category
+  * Selecting a state updates the chart with state specific data
+  * Clicking the button toggles between total prescriptions and total amount reimbursed per Medication List category.
   
 ## Documentation
 
@@ -90,6 +91,8 @@ MEAN stack application is based on previous code given in CSS5590_490 ICP.
   * mongoimport --db medicaid --collection ndcpres --type csv --headerline --file PATH\TO\FILE\medList_by_state.csv
 * Node.js
   * run mongo.js before launching web app
+  * To avoid heap size issues run with:
+    * node --max-old-space-size=2000000 mongo.js
 
 ## Contributing Members
 
