@@ -122,6 +122,47 @@ app.get('/prescrip', function (req, res) {
 
 });
 
+app.get('/prescripTog', function (req, res) {
+  MongoClient.connect(url, function(err, db) {
+    if(err)
+    {
+      res.write("Failed, Error while connecting to Database");
+      res.end();
+    }
+
+    var query = {};
+    console.log("HERE");
+    //console.log(req.query);
+    if(Object.keys(req.query).length !== 0){
+      console.log(req.query);
+      query = [   { $match: { "State": {"$eq":req.query.usState}},"total_amount_reimbursed":{"$gt":0}},   { $group: { _id: "$Medication_List", total_pres: { $sum: "$total_amount_reimbursed" } } },   { $sort: { total_pres: -1 } } ];
+
+      console.log(query[0].$match.State);
+    }else{
+      query = scriptsByUS;
+    }
+
+
+
+    db.collection('ndcpres').aggregate(query).toArray(function(err, result){
+      if(err)
+      {
+        res.write("get Failed");
+        res.end();
+      }else
+      {
+        //console.log(res);
+        res.send(result);
+
+      }
+      console.log("Got All Documents");
+
+    });
+  });
+
+});
+
+
 var server = app.listen(8081, function () {
     var host = server.address().address;
     var port = server.address().port;

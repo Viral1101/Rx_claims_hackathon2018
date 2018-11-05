@@ -81,6 +81,11 @@
     .chart-text{
       font-size: 8px;
     }
+
+    .toggle{
+      position: absolute;
+      top: 500px;
+    }
   </style>
 
 
@@ -89,7 +94,7 @@
 
 
 <body ng-app="app" ng-controller="homeController" ng-init="getData()">
-
+<button class="toggle" ng-click="toggleData()">Switch to: {{selectState}}</button>
 
 <!--<script src="js/d3_us.js"></script>-->
 <!-- <script src="js/donut_chart.js"></script>-->

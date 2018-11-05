@@ -9,40 +9,43 @@ myapp.run(function ($http) {
     $http.defaults.headers.post['dataType'] = 'json'
 });
 
-myapp.controller('addController',function($scope,$http){
-    $scope.addbook = function(){
-        console.log($scope.bookName);
-
-        var dataParams = {
-            'bookName' : $scope.bookName,
-            'authorName' : $scope.authorName,
-            'noOfCopies' : $scope.noOfCopies,
-            'edition' : $scope.edition,
-            'ISBN':$scope.ISBN
-        };
-        var config = {
-            headers : {
-                'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8;'
-            }
-        };
-        var req = $http.post('http://127.0.0.1:8081/create',dataParams);
-        req.success(function(data, status, headers, config) {
-            $scope.message = data;
-            console.log(data);
-        });
-        req.error(function(data, status, headers, config) {
-            alert( "failure message: " + JSON.stringify({data: data}));
-        });
-    };
-});
-
 
 myapp.controller('homeController',function($scope,$http){
+
+  const reim = "Reimbursement";
+  const numScrip = "Prescriptions";
+  const getAmount = "$Total Amount Reimbursed";
+  const getScrip = "$Number of Prescriptions";
+  const prescrip = 'http://127.0.0.1:8081/prescrip';
+  const prescripToggle = 'http://127.0.0.1:8081/prescripTog';
+
+    $scope.getParam = getAmount;
+    $scope.prescripURL = prescrip;
+    $scope.saveState = "";
+
+  $scope.selectState = reim;
+
+    $scope.toggleData=function(){
+      if($scope.selectState===reim){
+        $scope.selectState = numScrip;
+        $scope.getParam=getScrip;
+        $scope.prescripURL=prescripToggle;
+      }
+      else{
+        $scope.selectState = reim;
+        $scope.getParam=getAmount;
+        $scope.prescripURL=prescrip
+      }
+
+      $scope.getData();
+      $scope.updateDonut($scope.saveState);
+
+    }
 
     $scope.getData=function(){
 
         var params = {params:[{
-          $group:{_id:"$State",total:{$sum:"$Total Amount Reimbursed"}}
+          $group:{_id:"$State",total:{$sum:$scope.getParam}}
         }]};
 
         var req = $http.get('http://127.0.0.1:8081/get',params);
@@ -82,6 +85,7 @@ myapp.controller('homeController',function($scope,$http){
     }
 
     $scope.updateDonut=function(state){
+      $scope.saveState = state;
       var params = {params:{ usState:state }};
       var req = $http.get('http://127.0.0.1:8081/prescrip',params);
       req.success(function(data, status, headers, config) {
@@ -345,6 +349,11 @@ myapp.controller('homeController',function($scope,$http){
       return {label: label, value: value};
     });
   }
+/*
+  d3.select(".toggle")
+    .
+    });
+*/
 
   function loadDonut(data){
     change(chartData(data));
