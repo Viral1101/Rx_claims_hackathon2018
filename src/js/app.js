@@ -1,5 +1,8 @@
 /**
+ * Application based on MEAN app
  * Created by karthik on 7/14/17.
+ *
+ * Provided from CSS5590_490 ICP
  */
 var myapp = angular.module('app',[]);
 myapp.run(function ($http) {
