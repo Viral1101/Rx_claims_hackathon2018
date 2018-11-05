@@ -5,7 +5,7 @@ The purpose of this project is to understand and predict drug usage of the Medic
 
 * Source Code: [Github Repository](https://github.com/Viral1101/Rx_claims_hackathon2018)
 * Presentation: [Slides](https://docs.google.com/presentation/d/161zXyUf1gQDV95C6VQlIDrQCJhbf6KNRCBGZd8pqHtQ/edit?usp=sharing)
-* Video: [Youtube](need a youtube link here)
+* Video: [Youtube](https://www.youtube.com/watch?v=Z4ZtlFfPu0M&feature=youtu.be)
 
 ## Requirements
 
@@ -26,7 +26,7 @@ The *National Drug Codes* dataset is from the Healthcare Effectiveness Data and 
 ## Approach
 
 This project is built as an interactive web application using MEAN Stack.
-Some SQL code was used to join tables for ore responsive use by the application, according to the following code.
+SQL code was used to join the two tables for more responsive use by the application, according to the following code.
 
 ```sql
 proc sql;
@@ -71,7 +71,13 @@ Relevant tables from the datasets were imported into MongoDB. Database queries r
   
 ## Documentation
 
+The US Map visualization was based on an example published on the D3 Github Gallery:
+[Zoomable Map](https://bl.ocks.org/mbostock/2206590)
 
+Our donut chart visualization was also based on an example published on the D3 Github Gallery:
+[Pie Chart with Labels](http://bl.ocks.org/dbuezas/9306799)
+
+http://bl.ocks.org/dbuezas/9306799
 ## Contributing Members
 
 * [Dave Walsh](https://github.com/Viral1101)
