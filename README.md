@@ -28,6 +28,11 @@ The *National Drug Codes* dataset is from the Healthcare Effectiveness Data and 
 This project is built as an interactive web application using MEAN Stack.
 SQL code was used to join the two tables for more responsive use by the application, according to the following code.
 
+```
+import State_Drug_Utilization_Data_2018.csv as medicaid
+import ndc_med_list.csv as ndcmed
+```
+
 ```sql
 proc sql;
 create table one as
@@ -77,6 +82,19 @@ The US Map visualization was based on an example published on the D3 Github Gall
 Our donut chart visualization was also based on an example published on the D3 Github Gallery:
 [Pie Chart with Labels](http://bl.ocks.org/dbuezas/9306799)
 
+MEAN stack application is based on previous code given in CSS5590_490 ICP.
+
+State_Drug_Utilization_Data_2018.csv: [Medicaid](https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-utilization-data/index.html)
+
+ndc_med_list.csv: Tab 3 from [Hedis](https://www.ncqa.org/hedis/measures/hedis-2019-ndc-license/hedis-2019-final-ndc-lists/)
+
+## Runtime requirements
+*MongoDB insllation
+  *mongoimport --db medicaid --collection prescriptions --type csv --headerline --file PATH\TO\FILE\State_Drug_Utilization_Data_2018.csv
+  *mongoimport --db medicaid --collection ndcpres --type csv --headerline --file PATH\TO\FILE\medList_by_state.csv
+*Node.js
+  *run mongo.js before launching web app
+
 ## Contributing Members
 
 * [Dave Walsh](https://github.com/Viral1101)
@@ -84,6 +102,3 @@ Our donut chart visualization was also based on an example published on the D3 G
 * [Hari Velivela](https://github.com/Githubhari9966)
 * [Neil Pirch](https://github.com/neilpirch)
 
-## License
-
-The code is available under the [MIT license](LICENSE.txt).
