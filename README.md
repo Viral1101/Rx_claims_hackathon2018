@@ -87,12 +87,12 @@ MEAN stack application is based on previous code given in CSS5590_490 ICP.
 
 ## Runtime requirements
 * MongoDB insllation
-  * mongoimport --db medicaid --collection prescriptions --type csv --headerline --file PATH\TO\FILE\State_Drug_Utilization_Data_2018.csv
-  * mongoimport --db medicaid --collection ndcpres --type csv --headerline --file PATH\TO\FILE\medList_by_state.csv
+  * `mongoimport --db medicaid --collection prescriptions --type csv --headerline --file PATH\TO\FILE\State_Drug_Utilization_Data_2018.csv`
+  * `mongoimport --db medicaid --collection ndcpres --type csv --headerline --file PATH\TO\FILE\medList_by_state.csv`
 * Node.js
   * run mongo.js before launching web app
   * To avoid heap size issues run with:
-    * node --max-old-space-size=2000000 mongo.js
+    * `node --max-old-space-size=2000000 mongo.js`
 
 ## Contributing Members
 
